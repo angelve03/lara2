@@ -1,0 +1,117 @@
+            body {
+                font-family: Calibri;
+                margin: 1cm 9cm; 
+                line-height: 1.5;
+                font-size: 11pt;
+                text-align: justify;
+            
+                }
+                .header-text {
+                    opacity: 0.5; 
+                    color: black;
+                    font-size: 9pt;
+                    text-align: center;
+
+                }
+            h1, h2, h3 {
+                text-align: center;
+                text-transform: uppercase;
+                margin-bottom: 0.5cm;
+                font-size: 11pt;
+                
+            }
+
+            h1 {
+            text-decoration: underline; 
+            }
+            
+            p {
+                text-align: justify;
+                margin-bottom: 0.3cm;
+                margin-top: 0.3cm;
+            }
+
+            ul {
+                margin-top: 0.2cm;
+                margin-bottom: 0.3cm;
+            }
+
+            li {
+                margin-bottom: 0.1cm;
+            }
+
+            .clause {
+                margin-bottom: 0.5cm;
+            }
+            .signature{
+                margin-top: 4cm;
+
+            }
+            .signature p {
+                text-align: center;
+                margin-bottom: 0cm;
+                margin-top: 0cm;
+            }
+
+            .signature-container {
+                display: flex;
+                justify-content: space-between;
+                margin-top: 50px;
+            }
+    
+
+            .custom-list {
+                list-style-type: none;
+                text-align: justify;
+            }
+
+            .custom-list li::before {
+                content: "- "; 
+                margin-right: 10px; 
+            }
+
+            .highlighted {
+                background-color: yellow;
+                padding: 2px; 
+            }
+            
+
+            .header {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin-bottom: 20px;
+                
+            }
+
+            .header h1 {
+                margin: 0 55px; 
+                
+            }
+
+            .header-image {
+                width: 150px; 
+                height: auto;
+                opacity: 0.5;
+            }
+            .table-container {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .centered-table {
+                border-collapse: collapse;
+                width: 40%; 
+                text-align: center;
+                
+            }
+
+            .centered-table td {
+                border: 1px solid #000;
+                padding: 10px;
+            }
+
+            .green-row td {
+                background-color: #4CAF50; 
+                color: black;
+            }
