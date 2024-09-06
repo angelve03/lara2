@@ -14,6 +14,8 @@
 <li><a href="{{ url('/documento1') }}">CONTRATO CON BENEFICIARIO FINANCIADO</a></li>
     <li><a href="{{ url('/documento2') }}">ACTA DE ACEPTACION</a></li>
     <li><a href="{{ url('/documento3') }}">CONTRATO CON BENEFICIARIO AL CONTADO</a></li>
+    <li><a href="{{ url('/documento6') }}">CONTRATO LA RIVERA</a></li>
+
     </ul>
     <p >CONVENIO DE SEPARACION</p>
     <ul >

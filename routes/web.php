@@ -26,3 +26,7 @@ Route::get('/documento4', function () {
 Route::get('/documento5', function () {
     return view('separacion');
 });
+
+Route::get('/documento6', function () {
+    return view('contraToLR');
+});
