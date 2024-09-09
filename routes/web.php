@@ -28,5 +28,9 @@ Route::get('/documento5', function () {
 });
 
 Route::get('/documento6', function () {
-    return view('contraToLR');
+    return view('contratoLR');
+});
+
+Route::get('/documento7', function () {
+    return view('contratoAuto');
 });
