@@ -34,3 +34,11 @@ Route::get('/documento6', function () {
 Route::get('/documento7', function () {
     return view('contratoAuto');
 });
+
+Route::get('/documento8', function () {
+    return view('contratocontadoConsorcio');
+});
+
+Route::get('/documento9', function () {
+    return view('contratofinanciadoConsorcio');
+});

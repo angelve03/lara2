@@ -24,6 +24,12 @@
             <li><a href="{{ url('/documento5') }}">FICHA DE SEPARACION</a></li>
 
             </ul>
+            <p >CONTRATOS CONSORCIO</p>
+    <ul >
+            <li><a href="{{ url('/documento8') }}">CONTRATO CONTADO</a></li>
+            <li><a href="{{ url('/documento9') }}">CONTRATO FINANCIADO</a></li>
+
+            </ul>
 </div>
 
 </body>
