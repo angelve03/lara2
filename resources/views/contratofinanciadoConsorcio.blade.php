@@ -50,7 +50,7 @@
     Por el presente contrato el prominente VENDEDOR se compromete a dar en venta real de la MZ I LT 8, y en enajenación perpetua la totalidad del lote 60M2, donde según plano adjunto, cuyos linderos y medidas perimétricas detallan 60M2 de área total y 36M2 del área construida.</p>
    
     
-    <p>CPRECISAR PERÍMETRO Y DIMENSIONES DE LOTES</p>
+    <p>PRECISAR PERÍMETRO Y DIMENSIONES DE LOTES</p>
             <ul class="custom-list">
         
             <li>POR EL FRENTE: CON EL PASAJE</li>
@@ -249,8 +249,8 @@
 <ul class="custom-list">
 <p>Sistema constructivo en albañilería confinada constituido por ladrillos de arcilla, columnas de amarre vibrado y losas aligeradas.</p>
 <p>Elementos Estructurales:</p>
-    <li>- Profundidad de la excavación: 1m (cimiento corrido)</li>
-    <li>- Zapatas, columnas, y losas (acero de fy=4200kg/cm2 y el concreto de f’c= 210kg/cm2).</li>
+    <li>Profundidad de la excavación: 1m (cimiento corrido)</li>
+    <li>Zapatas, columnas, y losas (acero de fy=4200kg/cm2 y el concreto de f’c= 210kg/cm2).</li>
 
     <p>Cerramientos Verticales:</p>
     <li>- Muros de albañilería confinada (con ladrillos de arcilla, medidas 12*24*09).</li>
@@ -313,6 +313,7 @@
 <div class="clause">
     <p><b><u>3. HABILITACION URBANA</u></b></p>
    
+    <p>Tipo de Habilitación urbana con construcción simultanea de viviendas, se efectuarán todos los servicios básicos reglamentados para urbanizaciones con fines de vivienda.</p>
 
         <p><b>PAVIMENTOS:</b> Asfaltado con veredas y sardineles de concreto.</p>
         <p><b>PARQUES:</b> Habilitados con plataforma deportiva, áreas verdes y juegos recreativo con todos los ornamentos reglamentarios.</p>
