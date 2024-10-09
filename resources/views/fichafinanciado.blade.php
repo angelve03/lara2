@@ -245,7 +245,7 @@
     </table>
 </div>
 
-<div style="display: flex; text-align: center; justify-content: center; align-items: center; gap: 200px; margin: 50px 0;">
+<div style="display: flex; text-align: center; justify-content: center; align-items: center; gap: 200px; margin: 5px 0;">
     <table style="border: 1px solid black; border-collapse: collapse; margin: 0 ;">
         <thead>
             <tr >
