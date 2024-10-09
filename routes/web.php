@@ -28,7 +28,7 @@ Route::get('/documento5', function () {
 });
 
 Route::get('/documento6', function () {
-    return view('contratoLR');
+    return view('fichacontado');
 });
 
 Route::get('/documento7', function () {
@@ -41,4 +41,8 @@ Route::get('/documento8', function () {
 
 Route::get('/documento9', function () {
     return view('contratofinanciadoConsorcio');
+});
+
+Route::get('/documento10', function () {
+    return view('fichafinanciado');
 });

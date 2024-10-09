@@ -39,7 +39,7 @@
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <thead>
             <tr>
-                <th colspan="4" style="text-align: center;">DATOS CLIENTE</th>
+                <th colspan="4" style="text-align: center; background-color:#FFF2CC;">DATOS CLIENTE</th>
             </tr>
         </thead>
         <tbody>
@@ -97,7 +97,7 @@
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <thead>
             <tr>
-                <th colspan="4" style="text-align: center;">DATOS DE LA CARGA FAMILIAR</th>
+                <th colspan="4" style="text-align: center; background-color: #E2EFDA; ">DATOS DE LA CARGA FAMILIAR</th>
             </tr>
         </thead>
         <tbody>
@@ -143,17 +143,17 @@
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <thead>
             <tr>
-            <td>URBANIZACION:</td>
+            <td>UBICACIÓN</td>
                 <th colspan="8" style="text-align: center;">CONDOMINIO LA RIBERA</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>MANZANA:</td>
-                <td>A</td>
+                <td style="text-align: center; background-color: #FFFF00; ">A</td>
                 <td>LOTE:</td>
-                <td>21</td>
-                <td>AREA TOTAL:</td>
+                <td style="text-align: center; background-color: #FFFF00; ">21</td>
+                <td>ÁREA TOTAL:</td>
                 <td>72 M2</td>
                 <td>CONSTRUCCIÓN:</td>
                 <td>36 M2</td>
@@ -165,23 +165,23 @@
     </table>
 </div>
 
-<BR>
+
 
 <div class="table-container">        
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <thead>
             <tr>
-                <th colspan="2" style="text-align: center;">MÉTODO DE PAGO AL CONTADO</th>
+                <th colspan="2" style="text-align: center; background-color: #E2EFDA; " >MÉTODO DE PAGO AL CONTADO</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>PRECIO TOTAL:</td>
+                <td>BONO HABITACIONAL</td>
                 <td>S/.79805.00</td>
                 
             </tr>
             <tr>
-                <td>SEPARACIÓN:</td>
+                <td>PRECIO DE LISTA</td>
                 <td>S/.500.00</td>
             
             </tr>
@@ -189,7 +189,7 @@
         </tbody>
     </table>
 </div>
-<BR>
+
 
 <div class="table-container">        
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
@@ -197,22 +197,22 @@
             <tr>
             <thead>
             <tr>
-                <th colspan="2" style="text-align: center;">REALIZO EL CLIENTE</th>
-                <th colspan="2" style="text-align: center;">REALIZO EL ASESOR</th>
+                <th colspan="2" style="text-align: center; background-color: #E2EFDA; ">REALIZO EL CLIENTE</th>
+                <th colspan="2" style="text-align: center; background-color: #E2EFDA; ">REALIZO EL ASESOR</th>
 
             </tr>
             <td>SEPARACIÓN</td>
-            <td>S/.79805.00</td>
+            <td style="text-align: center; background-color: #FFFF00; ">S/.79805.00</td>
             <td>DESCUENTO PROMOCIONAL</td>
-            <td>S/.79805.00</td>
+            <td style="text-align: center; background-color: #FFFF00; ">S/.79805.00</td>
             
         </thead>                
                 
             <tr>
-                <td>INICIAL</td>
-                <td>S/.500.00</td>
+                <td >INICIAL</td>
+                <td style="text-align: center; background-color: #FFFF00; ">S/.500.00</td>
                 <td>DESCUENTO GERENCIAL</td>
-                <td>S/.500.00</td>
+                <td style="text-align: center; background-color: #FFFF00; ">S/.500.00</td>
             
             </tr>
             <tr>
@@ -236,7 +236,7 @@
         </tbody>
     </table>
 </div>
-<br>
+
 <div class="table-container">        
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <tbody>
@@ -329,7 +329,7 @@
         <p><B>RESOLUCIÓN:</B></p>
         <p>
         6. El presente contrato podrá ser resuelto por las siguientes causales:</p>
-        <p>&emsp;&emsp;&emsp;&emsp;&emsp;A) Por el no pago de la inicial dentro del plazo señalado en el punto 3 del presente documento.</p>
+        <p style="margin: 0; padding: 0;" >&emsp;&emsp;&emsp;&emsp;&emsp;A) Por el no pago de la inicial dentro del plazo señalado en el punto 3 del presente documento.</p>
         &emsp;&emsp;&emsp;&emsp;&emsp;B) Por el no pago de dos cuotas consecutivas del saldo deudor del precio de venta pactado en el cronograma.</p>
 
         
@@ -345,13 +345,13 @@ Que el cliente mantenga su condición de elegible o grupo familiar elegible para
         </p>
         
 
-        <p>
+        <p style="margin: 0; padding: 0;">
         &emsp;&emsp;&emsp;&emsp;&emsp;A) Tener carga familiar (no tíos, ni sobrinos) y si participa con hijos o hermanos que sean menores a 25 años.        
         </p>
-        <p>
+        <p style="margin: 0; padding: 0;">
         &emsp;&emsp;&emsp;&emsp;&emsp;B) Sueldo grupo familiar menor a s/. 3,715 (tres mil setecientos quince con 00/100 soles).        
-        </p><p>
-        &emsp;&emsp;&emsp;&emsp;&emsp;C) No tener propiedades urbanas inscritas a su nombre.</p><p>
+        </p><p style="margin: 0; padding: 0;">
+        &emsp;&emsp;&emsp;&emsp;&emsp;C) No tener propiedades urbanas inscritas a su nombre.</p><p style="margin: 0; padding: 0;">
         &emsp;&emsp;&emsp;&emsp;&emsp;D) No haber recibido apoyo del estado (techo propio, crédito mi vivienda, banco de materiales, enlace, otros)</p>
         <p>
         En caso el cliente no tenga la condición de elegible por el fondo mi vivienda, la empresa lo facultará a poder ceder su posición contractual a otra persona o grupo familiar que sí cumpla con esa condición, en el plazo máximo de 30 días, de lo contrario vencido dicho plazo, el presente contrato quedará resuelto aplicándole una penalidad del 20% del valor abonado hasta la fecha de resolución. Que el cliente complete el ahorro requerido por el fondo mi vivienda, para lo cual deberá acreditar haber efectuado previamente a favor del vendedor, el depósito por el importe correspondiente.

@@ -14,7 +14,6 @@
 <li><a href="{{ url('/documento1') }}">CONTRATO CON BENEFICIARIO FINANCIADO</a></li>
     <li><a href="{{ url('/documento2') }}">ACTA DE ACEPTACION</a></li>
     <li><a href="{{ url('/documento3') }}">CONTRATO CON BENEFICIARIO AL CONTADO</a></li>
-    <li><a href="{{ url('/documento6') }}">CONTRATO LA RIVERA</a></li>
     <li><a href="{{ url('/documento7') }}">CONTRATO DE ESTACIONAMIENTO</a></li>
 
     </ul>
@@ -28,6 +27,12 @@
     <ul >
             <li><a href="{{ url('/documento8') }}">CONTRATO CONTADO</a></li>
             <li><a href="{{ url('/documento9') }}">CONTRATO FINANCIADO</a></li>
+
+            </ul>
+            <p >FICHA DE SEPARACION </p>
+    <ul >
+            <li><a href="{{ url('/documento6') }}">CONTADO</a></li>
+            <li><a href="{{ url('/documento10') }}">FINANCIADO</a></li>
 
             </ul>
 </div>
