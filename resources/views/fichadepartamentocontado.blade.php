@@ -31,7 +31,8 @@
     <br><br><br><br><br>
     <div class="clause">
         <p>
-        EL CLIENTE DECLARA CONOCER QUE EL PROYECTO CONDOMINIO LA RIBERA SE DESARROLLARÁ SOBRE EL PREDIO MATRIZ INSCRITO EN LA PARTIDA REGISTRAL N°02253033 DEL REGISTRO DE PREDIOS RURAL VALLE CHANCAY - LAMBAYEQUE/SECTOR SAN AGUSTIN/PREDIO PESCORAN/EN EL DISTRITO DE PIMENTEL. ES DE SU CONOCIMIENTO QUE LA EMPRESA QUE DESARROLLA Y PROMOCIONA EL PROYECTO ES ALITORRES INMOBILIARIA Y CONSTRUCTORA DEBIDAMENTE INSCRITA EN LA PARTIDA REGISTRAL N° 11328386.						
+        EL CLIENTE DECLARA CONOCER QUE EL PROYECTO CONDOMINIO LA RIBERA SE DESARROLLARÁ SOBRE EL PREDIO MATRIZ INSCRITO EN LA PARTIDA REGISTRAL N°02253033 DEL REGISTRO DE PREDIOS RURAL VALLE CHANCAY - LAMBAYEQUE/SECTOR SAN AGUSTIN/PREDIO PESCORAN/EN EL DISTRITO DE PIMENTEL DEL PROYECTO LA RIBERA PRIMERA ETAPA Y CON  PARTIDA ELECTRONICA Nº 11218355 SEGUNDA ETAPA, ES DE SU CONOCIMIENTO QUE LA EMPRESA QUE DESARROLLA Y PROMOCIONA EL PROYECTO ES ALITORRES INMOBILIARIA Y CONSTRUCTORA DEBIDAMENTE INSCRITA EN LA PARTIDA REGISTRAL N° 11328386.
+						
 </p>
     </div>
 
@@ -149,9 +150,9 @@
         </thead>
         <tbody>
             <tr>
-                <td>MANZANA:</td>
+                <td>PISO:</td>
                 <td style="text-align: center; background-color: #FFFF00; ">A</td>
-                <td>LOTE:</td>
+                <td>NÚMERO:</td>
                 <td style="text-align: center; background-color: #FFFF00; ">21</td>
                 <td>ÁREA TOTAL:</td>
                 <td>72 M2</td>
@@ -319,11 +320,11 @@
         <p>
         1. Todos los trámites relacionados a este documento y al contrato que pudiera firmarse en base al mismo, son personales y deberán efectuarse únicamente en las oficinas de la empresa.</p>
         <p>
-        2. Este contrato es válido para la separación de una unidad de vivienda, identificada plenamente, como consta en la parte superior del presente documento, habiendo cancelado la cuota de separación, comprometiéndose a completar la inicial en el plazo señalado a continuación.</p>
+        2. Este contrato es válido para la separación de una unidad de estacionamiento, identificada plenamente, como consta en la parte superior del presente documento, habiendo cancelado la cuota de separación, comprometiéndose a completar la inicial en el plazo señalado a continuación.</p>
         <p>
         3. La fecha máxima para completar el pago de la inicial por la separación del lote, será de 07 días calendarios, computados desde la firma del presente documento y/o depósito del monto por concepto de separación.</p>
         <p>
-        4. El precio de venta del lote materia de venta será de S/. 32,000.00 TREINTA Y DOS MIL 00/100 NUEVOS SOLES más el bono familiar habitacional vigente en el año de su otorgamiento, respecto del cual se deducirá la inicial cancelada, mientras que el saldo deudor será cancelado de acuerdo al anexo denominado cronograma de pago.</p>
+        4. El precio de venta del lote materia de venta será de S/. 32,000.00 TREINTA Y DOS MIL 00/100 NUEVOS SOLES más el bono familiar habitacional vigente en el año de su otorgamiento, respecto del cual se deducirá la inicial.</p>
         <p>
         5. Cabe señalar que en el supuesto de la pronta culminación de obras (antes del plazo estipulado en el cronograma de pagos), ambas partes podrían acordar el acortamiento del plazo para el pago del saldo pendiente, para dar cumplimiento a la cláusula 10.</p>
         <p><B>RESOLUCIÓN:</B></p>
@@ -340,7 +341,7 @@
         </p>
         <p>
         8. El cliente a la firma del presente contrato manifiesta tener pleno conocimiento de los requisitos que debe cumplir para calificar al bono familiar habitacional, los cuales se detallan a continuación:
-Que el cliente mantenga su condición de elegible o grupo familiar elegible para el acceso o la asignación del BFH, para lo cual deberá acreditar su condición de elegibilidad vigente expedida a su favor por el fondo mi vivienda, señalando que conoce los requisitos de elegibilidad, los cuales son:
+            Que el cliente mantenga su condición de elegible o grupo familiar elegible para el acceso o la asignación del BFH, para lo cual deberá acreditar su condición de elegibilidad vigente expedida a su favor por el fondo mi vivienda, señalando que conoce los requisitos de elegibilidad, los cuales son:
 
         </p>
         
@@ -363,7 +364,7 @@ Que el cliente mantenga su condición de elegible o grupo familiar elegible para
         <p>
         10. El cliente declara conocer que la transferencia de propiedad a su favor se producirá automáticamente en la oportunidad de cancelación del íntegro del precio de venta.
                 <p>
-        11. El cliente declara brindar la información verídica para la postulación del bono familiar habitacional (BFH) a la firma del presente contrato.       
+                11. El cliente declara brindar la información verídica para la postulación del bono familiar habitacional (BFH) a la firma del presente contrato.       
          <p>
         12. El cliente declara tener pleno conocimiento de la documentación del <B>CONDOMINIO LA RIBERA</B> y su promotor al momento de la firma del presente contrato.
         <p>
