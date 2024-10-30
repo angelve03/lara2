@@ -144,15 +144,15 @@
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <thead>
             <tr>
-            <td>URBANIZACION:</td>
+            <td>UBICACIÓN:</td>
                 <th colspan="8" style="text-align: center;">CONDOMINIO LA RIBERA</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>MANZANA:</td>
+                <td>PISO:</td>
                 <td style="text-align: center; background-color: #FFFF00; ">A</td>
-                <td>LOTE:</td>
+                <td>NÚMERO:</td>
                 <td style="text-align: center; background-color: #FFFF00; ">21</td>
                 <td>AREA TOTAL:</td>
                 <td>72 M2</td>
@@ -303,9 +303,23 @@
     </table>
 </div>
 
+<div class="table-container">        
+    <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
+        <tbody>
+            <tr>
+            <thead>
+            <td style="text-align: center; background-color: #FFFF00; width: 390px; ">FECHA DE INICIO</td>
+            <td style="width: 390px;"></td>
+            <td style="text-align: center; background-color: #FFFF00; width: 390px; ">FECHA DE PAGO (cuotas)</td>
+            <td style="width: 390px;"></td>
+            
+        </thead>                
+                
+        </tbody>
+    </table>
+</div>
 
-
-
+</br>
 <div class="table-container">        
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <tbody>
@@ -405,15 +419,7 @@
         <p><B>PENALIDADES</B></p>
         <p>
         7. Si la resolución se diera por incumplimiento del pago de la inicial, se le aplicará al cliente una penalidad del 100% del monto abonado hasta la fecha de resolución. Si la resolución se diera por el no pago de dos cuotas consecutivas del saldo deudor del precio de venta, se le aplicará al cliente una penalidad del 100% del monto abonado hasta la fecha de resolución. En el caso que el cliente incumpla con cancelar de manera puntual según su cronograma de pagos, se generará automáticamente la penalidad de pago ascendente a la suma de S/.25 (VEINTICINCO y 00/100 soles) por cada día de retraso a partir del mes siguiente.
-
         </p>
-        <p>
-        8. El cliente a la firma del presente contrato manifiesta tener pleno conocimiento de los requisitos que debe cumplir para calificar al bono familiar habitacional, los cuales se detallan a continuación:
-Que el cliente mantenga su condición de elegible o grupo familiar elegible para el acceso o la asignación del BFH, para lo cual deberá acreditar su condición de elegibilidad vigente expedida a su favor por el fondo mi vivienda, señalando que conoce los requisitos de elegibilidad, los cuales son:
-
-        </p>
-        
-
         <p style="margin: 0; padding: 0;">
         &emsp;&emsp;&emsp;&emsp;&emsp;A) Tener carga familiar (no tíos, ni sobrinos) y si participa con hijos o hermanos que sean menores a 25 años.        
         </p>
@@ -423,7 +429,7 @@ Que el cliente mantenga su condición de elegible o grupo familiar elegible para
         &emsp;&emsp;&emsp;&emsp;&emsp;C) No tener propiedades urbanas inscritas a su nombre.</p><p style="margin: 0; padding: 0;">
         &emsp;&emsp;&emsp;&emsp;&emsp;D) No haber recibido apoyo del estado (techo propio, crédito mi vivienda, banco de materiales, enlace, otros)</p>
         <p>
-        En caso el cliente no tenga la condición de elegible por el fondo mi vivienda, la empresa lo facultará a poder ceder su posición contractual a otra persona o grupo familiar que sí cumpla con esa condición, en el plazo máximo de 30 días, de lo contrario vencido dicho plazo, el presente contrato quedará resuelto aplicándole una penalidad del 20% del valor abonado hasta la fecha de resolución. Que el cliente complete el ahorro requerido por el fondo mi vivienda, para lo cual deberá acreditar haber efectuado previamente a favor del vendedor, el depósito por el importe correspondiente.
+        8. En caso el cliente no tenga la condición de elegible por el fondo mi vivienda, la empresa lo facultará a poder ceder su posición contractual a otra persona o grupo familiar que sí cumpla con esa condición, en el plazo máximo de 30 días, de lo contrario vencido dicho plazo, el presente contrato quedará resuelto aplicándole una penalidad del 20% del valor abonado hasta la fecha de resolución. Que el cliente complete el ahorro requerido por el fondo mi vivienda, para lo cual deberá acreditar haber efectuado previamente a favor del vendedor, el depósito por el importe correspondiente.
         </p>
         <p>
         9.  El cliente manifiesta su intención de suscribir con la empresa el contrato de compra-venta, respecto de la unidad de vivienda especificada en el presente documento, la misma que tendrá la condición de bien futuro, hasta el trámite de recepción de obras.
@@ -437,9 +443,9 @@ Que el cliente mantenga su condición de elegible o grupo familiar elegible para
         12. El cliente declara tener pleno conocimiento de la documentación del <B>CONDOMINIO LA RIBERA</B> y su promotor al momento de la firma del presente contrato.
         <p>
         13. Para la validez de este contrato, el mismo se debe encontrar debidamente suscrito por el cliente con firma y huella.       
-         <p><B>DEL DOMICILIO, CORREO ELECTRÓNICO Y WHATSAPP</B></p>
+         <p><B>INFORMACIÓN DEL DOMICILIO, CORREO ELECTRÓNICO Y WHATSAPP:</B></p>
         <p>
-        14. El comprador a la firma del presente declara la veracidad de su domicilio, correo electrónico y WhatsApp indicado en la primera página del presente documento, para efecto de notificaciones.        </p>
+        14. El comprador a la firma del presente declara la veracidad de su domicilio, correo electrónico y WhatsApp indicado en la primera página del presente documento, para efecto de notificaciones.</p>
     </div>
     
     <div class="table-container">        
