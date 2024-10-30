@@ -446,6 +446,26 @@ Que el cliente mantenga su condición de elegible o grupo familiar elegible para
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <tbody>
             <tr>
+                <td>EXCLUSIVO</td>
+                <td style="width: 600px;"></td>
+                
+
+            </tr>
+            <tr>
+                <td>TELÉFONO</td>
+                <td style="width: 600px;"></td>
+            
+            </tr>
+           
+            
+        </tbody>
+    </table>
+</div>
+<BR>
+<div class="table-container">        
+    <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
+        <tbody>
+            <tr>
                 <td>PROMOTORÍA</td>
                 <td style="width: 600px;"></td>
                 
