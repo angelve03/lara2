@@ -46,3 +46,11 @@ Route::get('/documento9', function () {
 Route::get('/documento10', function () {
     return view('fichafinanciado');
 });
+
+Route::get('/documento11', function () {
+    return view('fichadepartamentocontado');
+});
+
+Route::get('/documento12', function () {
+    return view('fichadepartamentofinanciado');
+});

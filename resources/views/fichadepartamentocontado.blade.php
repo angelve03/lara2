@@ -31,8 +31,7 @@
     <br><br><br><br><br>
     <div class="clause">
         <p>
-        EL CLIENTE DECLARA CONOCER QUE EL PROYECTO CONDOMINIO LA RIBERA SE DESARROLLARÁ SOBRE EL PREDIO MATRIZ INSCRITO EN LA PARTIDA REGISTRAL N°02253033 DEL REGISTRO DE PREDIOS RURAL VALLE CHANCAY - LAMBAYEQUE/SECTOR SAN AGUSTIN/PREDIO PESCORAN/EN EL DISTRITO DE PIMENTEL DEL PROYECTO LA RIBERA PRIMERA ETAPA Y CON  PARTIDA ELECTRONICA Nº 11218355 SEGUNDA ETAPA, ES DE SU CONOCIMIENTO QUE LA EMPRESA QUE DESARROLLA Y PROMOCIONA EL PROYECTO ES ALITORRES INMOBILIARIA Y CONSTRUCTORA DEBIDAMENTE INSCRITA EN LA PARTIDA REGISTRAL N° 11328386.
-						
+        EL CLIENTE DECLARA CONOCER QUE EL PROYECTO CONDOMINIO LA RIBERA SE DESARROLLARÁ SOBRE EL PREDIO MATRIZ INSCRITO EN LA PARTIDA REGISTRAL N°02253033 DEL REGISTRO DE PREDIOS RURAL VALLE CHANCAY - LAMBAYEQUE/SECTOR SAN AGUSTIN/PREDIO PESCORAN/EN EL DISTRITO DE PIMENTEL. ES DE SU CONOCIMIENTO QUE LA EMPRESA QUE DESARROLLA Y PROMOCIONA EL PROYECTO ES ALITORRES INMOBILIARIA Y CONSTRUCTORA DEBIDAMENTE INSCRITA EN LA PARTIDA REGISTRAL N° 11328386.						
 </p>
     </div>
 
@@ -144,7 +143,7 @@
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <thead>
             <tr>
-            <td>URBANIZACION:</td>
+            <td>UBICACIÓN</td>
                 <th colspan="8" style="text-align: center;">CONDOMINIO LA RIBERA</th>
             </tr>
         </thead>
@@ -154,7 +153,7 @@
                 <td style="text-align: center; background-color: #FFFF00; ">A</td>
                 <td>LOTE:</td>
                 <td style="text-align: center; background-color: #FFFF00; ">21</td>
-                <td>AREA TOTAL:</td>
+                <td>ÁREA TOTAL:</td>
                 <td>72 M2</td>
                 <td>CONSTRUCCIÓN:</td>
                 <td>36 M2</td>
@@ -172,25 +171,18 @@
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <thead>
             <tr>
-                <th colspan="4" style="text-align: center; background-color: #E2EFDA; " >MÉTODO DE PAGO AL CONTADO</th>
+                <th colspan="2" style="text-align: center; background-color: #E2EFDA; " >MÉTODO DE PAGO AL CONTADO</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>PRECIO INICIAL DE</td>
-                <td>S/.3000.00</td>
-                <td>CUOTAS</td>
-                <td>36 meses</td>
+                <td>BONO HABITACIONAL</td>
+                <td>S/.79805.00</td>
                 
             </tr>
             <tr>
-                <td>BONO HABITACIONAL</td>
-                <th colspan="3" style="text-align: center;  " >S/.44.805.00</th>
-            
-            </tr>
-            <tr>
-                <td>PRECIO FINANCIADO EN LISTA</td>
-                <th colspan="3" style="text-align: center;  " >S/.75723.00</th>
+                <td>PRECIO DE LISTA</td>
+                <td>S/.500.00</td>
             
             </tr>
            
@@ -224,19 +216,19 @@
             
             </tr>
             <tr>
-                <th colspan="4" style="text-align: center;">PRECIO A PAGAR (BONO HABITACIONAL+PRECIO FINANCIAMIENTO - DESCUENTOS)</th>
+                <th colspan="4" style="text-align: center;">PRECIO TOTAL (BONO HABITACIONAL + PRECIO DE LISTA)</th>
             </tr>
             <tr>
                 <th colspan="4" style="text-align: center; font-weight: normal;">S/100.998.00</th>
             </tr>
             <tr>
-                <th colspan="4" style="text-align: center;">PRECIO ÚNICO (PRECIO DE LISTA - DESCUENTOS)</th>
+                <th colspan="4" style="text-align: center;">PRECIO A PAGAR ( PRECIO TOTAL - DESCUENTOS)</th>
             </tr>
             <tr>
                 <th colspan="4" style="text-align: center; font-weight: normal;">S/100.998.00</th>
             </tr>
             <tr>
-                <th colspan="4" style="text-align: center; ">PRECIO A PAGAR FINANCIADO </th>
+                <th colspan="4" style="text-align: center; ">PRECIO A PAGAR DESCONTANDO EL BFH</th>
             </tr>
             <tr>
                 <th colspan="4" style="text-align: center; font-weight: normal;">S/56.193.00</th>
@@ -244,82 +236,6 @@
         </tbody>
     </table>
 </div>
-
-<div style="display: flex; text-align: center; justify-content: center; align-items: center; gap: 200px; margin: 5px 0;">
-    <table style="border: 1px solid black; border-collapse: collapse; margin: 0 ;">
-        <thead>
-            <tr >
-                <th colspan="2" style="padding: 0px;"><b>CUOTAS ESPECIALES</b></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td style="border: 1px solid black; padding: 0px; ">Meses</td>
-                <td style="border: 1px solid black; padding: 0px;">Monto</td>
-            </tr>
-            <tr>
-                <td style="border: 1px solid black; padding: 0px;">12</td>
-                <td style="border: 1px solid black; padding: 0px;">S/.1000.00</td>
-            
-            </tr>
-            <tr>
-                <td style="border: 1px solid black; padding: 0px;">12</td>
-                <td style="border: 1px solid black; padding: 0px;">S/.1000.00</td>
-            </tr>
-            <tr>
-                <td style="border: 1px solid black; padding: 0px;">12</td>
-                <td style="border: 1px solid black; padding: 0px;">S/.3810.25</td>
-            </tr>
-            <tr>
-                <td style="border: 1px solid black; padding: 0px;"><b>TOTAL</b></td>
-            
-                <td style="border: 1px solid black; padding: 0px;">S/.<b>69723.00</b></td>
-            </tr>
-        </tbody>
-    </table>
-
-    <!-- Segunda tabla (4x2) -->
-    <table style="border: 1px solid black; border-collapse: collapse; margin: 0;">
-        <thead>
-            <tr >
-                <th colspan="4" style="padding: 0px;"><b>CUOTAS FIJAS</b></th>
-            </tr>
-        </thead>
-        <tbody>
-        <tr>
-                <td style="border: 1px solid black; padding: 0px;">Meses</td>
-                <td style="border: 1px solid black; padding: 0px;">Monto</td>
-            </tr>
-            <tr>
-                <td style="border: 1px solid black; padding: 0px;">36</td>
-                <td style="border: 1px solid black; padding: 0px;">S/.1936.75</td>
-            </tr>
-            <tr>
-                <td style="border: 1px solid black; padding: 0px;"><b>TOTAL</b></td></b>
-            
-                <td style="border: 1px solid black; padding: 0px; ">S/.<b>69723.00</b></td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-<div class="table-container">        
-    <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
-        <tbody>
-            <tr>
-            <thead>
-            <td style="text-align: center; background-color: #FFFF00; width: 390px; ">FECHA DE INICIO</td>
-            <td style="width: 390px;"></td>
-            <td style="text-align: center; background-color: #FFFF00; width: 390px; ">FECHA DE PAGO (cuotas)</td>
-            <td style="width: 390px;"></td>
-            
-        </thead>                
-                
-        </tbody>
-    </table>
-</div>
-
-</br>
-
 
 <div class="table-container">        
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
@@ -403,11 +319,11 @@
         <p>
         1. Todos los trámites relacionados a este documento y al contrato que pudiera firmarse en base al mismo, son personales y deberán efectuarse únicamente en las oficinas de la empresa.</p>
         <p>
-        2. Este contrato es válido para la separación de una unidad de estacionamiento, identificada plenamente, como consta en la parte superior del presente documento, habiendo cancelado la cuota de separación, comprometiéndose a completar la inicial en el plazo señalado a continuación.</p>
+        2. Este contrato es válido para la separación de una unidad de vivienda, identificada plenamente, como consta en la parte superior del presente documento, habiendo cancelado la cuota de separación, comprometiéndose a completar la inicial en el plazo señalado a continuación.</p>
         <p>
         3. La fecha máxima para completar el pago de la inicial por la separación del lote, será de 07 días calendarios, computados desde la firma del presente documento y/o depósito del monto por concepto de separación.</p>
         <p>
-        4. El precio de venta del lote materia de venta será de S/. 32,000.00 TREINTA Y DOS MIL 00/100 NUEVOS SOLES más el bono familiar habitacional vigente en el año de su otorgamiento, respecto del cual se deducirá la inicial. </p>
+        4. El precio de venta del lote materia de venta será de S/. 32,000.00 TREINTA Y DOS MIL 00/100 NUEVOS SOLES más el bono familiar habitacional vigente en el año de su otorgamiento, respecto del cual se deducirá la inicial cancelada, mientras que el saldo deudor será cancelado de acuerdo al anexo denominado cronograma de pago.</p>
         <p>
         5. Cabe señalar que en el supuesto de la pronta culminación de obras (antes del plazo estipulado en el cronograma de pagos), ambas partes podrían acordar el acortamiento del plazo para el pago del saldo pendiente, para dar cumplimiento a la cláusula 10.</p>
         <p><B>RESOLUCIÓN:</B></p>

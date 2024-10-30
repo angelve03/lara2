@@ -35,6 +35,12 @@
             <li><a href="{{ url('/documento10') }}">FINANCIADO</a></li>
 
             </ul>
+            <p >FICHA DE SEPARACION - LA RIVERA CONDOMINIO</p>
+    <ul >
+            <li><a href="{{ url('/documento11') }}">CONTADO</a></li>
+            <li><a href="{{ url('/documento12') }}">FINANCIADO</a></li>
+
+            </ul>
 </div>
 
 </body>

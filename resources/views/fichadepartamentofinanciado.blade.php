@@ -302,23 +302,8 @@
         </tbody>
     </table>
 </div>
-<div class="table-container">        
-    <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
-        <tbody>
-            <tr>
-            <thead>
-            <td style="text-align: center; background-color: #FFFF00; width: 390px; ">FECHA DE INICIO</td>
-            <td style="width: 390px;"></td>
-            <td style="text-align: center; background-color: #FFFF00; width: 390px; ">FECHA DE PAGO (cuotas)</td>
-            <td style="width: 390px;"></td>
-            
-        </thead>                
-                
-        </tbody>
-    </table>
-</div>
 
-</br>
+
 
 
 <div class="table-container">        
