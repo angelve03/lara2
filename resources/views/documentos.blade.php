@@ -29,7 +29,7 @@
             <li><a href="{{ url('/documento9') }}">CONTRATO FINANCIADO</a></li>
 
             </ul>
-            <p >FICHA DE SEPARACION </p>
+            <p >FICHA DE SEPARACION - LA RIVERA 1ER Y 2DA ETAPA</p>
     <ul >
             <li><a href="{{ url('/documento6') }}">CONTADO</a></li>
             <li><a href="{{ url('/documento10') }}">FINANCIADO</a></li>
