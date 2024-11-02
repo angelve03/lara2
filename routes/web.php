@@ -54,3 +54,12 @@ Route::get('/documento11', function () {
 Route::get('/documento12', function () {
     return view('fichadepartamentofinanciado');
 });
+
+Route::get('/documento13', function () {
+    return view('contratodepartamentocontado');
+});
+
+Route::get('/documento14', function () {
+    return view('contratodepartamentofinanciado');
+});
+
