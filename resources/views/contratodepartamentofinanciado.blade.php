@@ -174,6 +174,7 @@
         <p style="margin-left: 5em;">C)	Si en el plazo de <b>treinta y seis (36) meses </b>contados desde la firma del presente contrato, <b>EL COMPRADOR</b> no llegase a ser beneficiario del BFH, dejando ambas partes claramente establecidas que esta causal también se verificará con la primera denegación de la asignación del BFH a<b> EL COMPRADOR</b> aun así no se hubiese terminado de cumplir el plazo de <b>treinta y seis (36) meses.</b></p>
         <p style="margin-left: 5em;">D)	Si <b>EL COMPRADOR</b> no cumple con su obligación de cancelar el precio pactado sobre el inmueble descrito en la Cláusula Quinta, en la forma y fecha convenidas, el contrato quedará resuelto y <b>EL VENDEDOR</b>, conservará de modo definitivo la suma de dinero entregado por parte del <b>EL COMPRADOR</b> con anterioridad a la fecha de resolución de contrato.</p>
         <p style="margin-left: 5em;">E)	Si <b>EL VENDEDOR</b>, incumpliera alguna de sus obligaciones mencionadas en el presente contrato la otra parte podrá solicitar la devolución total de las sumas entregadas.</p>
+        <p>La resolución de pleno derecho por las causales antes señaladas se producirá, sin necesidad de declaración judicial o extrajudicial, cuando alguna de las partes del presente contrato de compra venta comunique por conducto notarial a la otra parte que quiere valerse de la cláusula resolutoria.</p>
     </div>
 
     <div class="clause">
