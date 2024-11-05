@@ -61,7 +61,7 @@
             <li>POR LA IZQUIERDA: CON PISO N°---- , CUARTO ----</li>
             </ul>
 
-            <p><u>DETALLES (ANEXO 02)</u></p>
+            <p><u><B>DETALLES (ANEXO 02)</B></u></p>
 
             <p>La compraventa pactada comprende, usos, costumbres, servidumbres, entradas, salidas y todo cuanto de hecho y por derecho corresponda al inmueble descrito en la Cláusula Segunda del presente instrumento sin reservar ni limitación alguna.</p>
  
