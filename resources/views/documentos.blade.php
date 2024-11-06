@@ -50,8 +50,7 @@
 
             <p >FICHA DE SEPARACION - CONDOMINIO LA VIÑA 1ERA ETAPA</p>
     <ul >
-            <li><a href="{{ url('/#') }}">FICHA CONTADO</a></li>
-            <li><a href="{{ url('/#') }}">FICHA FINANCIADO</a></li>
+            <li><a href="{{ url('/documento15') }}">FICHA CONTADO - FINANCIADO</a></li>
 
             </ul>
             <p >CONTRATOS - CONDOMINIO LA VIÑA 1ERA ETAPA</p>

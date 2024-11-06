@@ -63,3 +63,7 @@ Route::get('/documento14', function () {
     return view('contratodepartamentofinanciado');
 });
 
+Route::get('/documento15', function () {
+    return view('fichalaviña');
+});
+
