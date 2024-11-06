@@ -9,10 +9,9 @@
 </head>
 <body>
 
-<div class="container">
-<ul >
+<div class="container" style="margin-left: 1em;">
+<H1 >LA RIBERA</H1>
 
-    </ul>
     <p >CONTRATO - CONDOMINIO LA RIBERA ESTACIONAMIENTO</p>
     <ul >
     <li><a href="{{ url('/documento7') }}">CONTRATO DE ESTACIONAMIENTO</a></li>
@@ -44,6 +43,24 @@
             <li><a href="{{ url('/documento14') }}">CONTRATO FINANCIADO</a></li>
 
             </ul>
+</div>
+
+<div class="container" style="margin-left: 1em;">
+<H1 >LA VIÑA</H1>
+
+            <p >FICHA DE SEPARACION - CONDOMINIO LA VIÑA 1ERA ETAPA</p>
+    <ul >
+            <li><a href="{{ url('/#') }}">FICHA CONTADO</a></li>
+            <li><a href="{{ url('/#') }}">FICHA FINANCIADO</a></li>
+
+            </ul>
+            <p >CONTRATOS - CONDOMINIO LA VIÑA 1ERA ETAPA</p>
+    <ul >
+            <li><a href="{{ url('/#') }}">CONTRATO CONTADO</a></li>
+            <li><a href="{{ url('/#') }}">CONTRATO FINANCIADO</a></li>
+
+            </ul>
+            
 </div>
 
 </body>
