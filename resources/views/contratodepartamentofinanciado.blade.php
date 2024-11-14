@@ -49,7 +49,7 @@
   <div class="clause">
     <p><b><u>TERCERO: DEL BIEN MATERIA A TRANSFERIR:</u></b></p>
     <p style="background-color:#FFFF00;">
-    Por el presente contrato el prominente VENDEDOR se compromete a dar en venta real del PISO --- N° ---, y en enajenación perpetua la totalidad del lote ---M2, donde según plano adjunto, cuyos linderos y medidas perimétricas detallan ---M2 de área total y 36M2 del área construida.</p>
+    Por el presente contrato el prominente VENDEDOR se compromete a dar en venta real un departamento con ---M2, ubicado en el --º Piso de la Torre ---, N.º ---- , cuyos linderos se detallan a continuación:</p>
    
     
     <p>PRECISAR PERÍMETRO Y DIMENSIONES DEL DEPARTAMENTO:</p>
@@ -242,12 +242,13 @@ ANEXO 02</h2>
         <p>Proyecto destinado a la entrega de Viviendas de Interés Social en su modalidad de adquisición de vivienda nueva, se presentan las condiciones técnicas de la VIS que será entregada en la fecha establecida.</p>
        
         <p><b>1.	ÁREA CONSTRUIDO</b></p>
-        <p>Área construida de 50.46.00 m2, en la cual se considera los ambientes:</p>
+        <p>Área construida de 50.00 m2, en la cual se considera los ambientes:</p>
 
         <ul class="custom-list">
-        <p><b>PISO 01</b></p>
-            <li>01 ambiente para sala-comedor, 03 dormitorios y área de cocina.</li>
-            <li>02 dormitorios (uno para cama de dos plazas y otro para cama de una plaza).</li>
+        <p><b>AMBIENTE</b></p>
+            <li>01 ambiente para sala-comedor.</li>
+            <li>Área de cocina.</li>
+            <li>02 dormitorios.</li>
             <li>01 baño completo (con lavatorio, ducha e inodoro).</li>
             <li>Zona de lavandería</li>
             <li>Altura del módulo 2.50m de piso a techo</li>
@@ -260,7 +261,7 @@ ANEXO 02</h2>
 
         <ul class="custom-list">
         <p><b>Elementos Estructurales:</b></p>
-            <li>Profundidad de la excavación y muros de concreto armado y losas armadas.</li>
+            <li>Muros y lozas de concreto armado.</li>
         </ul>
     </div>
 
@@ -268,7 +269,7 @@ ANEXO 02</h2>
         <p><b>a.	AREA CONSTRUIDA</b></p>
         <ul class="custom-list">
         <p><b>PISOS</b></p>
-            <li>Acabado con cerámica en ambientes interiores.</li>
+            <li>Acabado con cemento pulido en ambientes interiores.</li>
             <li>En baño: acabado con enchape cerámico, incluido fondo de ducha y sardinel.</li>
             <p><b>REVOQUES Y PINTURA</b></p>
             <li>En la fachada tarrajeada con pintura a color de proyecto.</li>
@@ -277,7 +278,6 @@ ANEXO 02</h2>
             <li>Cielo raso solaqueado y pintado.</li>
             <p><b>CARPINTERIA</b></p>
             <li>Puerta principal: Madera contra placada.</li>
-            <li>Interiores y patio exterior: contra placada e=4.00 cm con marco de madera.</li>
             <li>Bisagras capuchinas.</li>
             <li>Ventanas con sistema, marco de aluminio y vidrio de 5.5mm.</li>
             <p><b>CERRAJERIA</b></p>
@@ -292,11 +292,14 @@ ANEXO 02</h2>
             <p><b>INSTALACIONES ELÉCTRICAS</b></p>
             <li>Tablero general con mínimo 3 llaves termo magnética, tubería PVC sap pesado, tubería empotrada, placas en tomacorrientes e interruptores de baquelita y Wall sockets en salida de luz con artefacto de iluminación.</li>
             <p><b>INSTALACIONES SANITARIAS</b></p>
-            <li>Red de desagüe de tubería pvc sal con caja de registro que evacuará a la red pública, en cuyo contemplará un sistema de aguas residuales. Red de agua tubería pvc sap, roscada, montante 4” para desagüe proyección 2° piso como parte del sistema de desagüe.</li>
+            <li>Red de desagüe de tubería pvc sal con caja de registro que evacuará a la red pública, en cuyo contemplará un sistema de aguas residuales. Red de agua tubería pvc sap.</li>
             <p><b>INSTALACIONES DE GAS</b></p>
             <li>No tendrá instalaciones de gas</li>
             <p><b>INSTALACIONES DE TELÉFONO/INTERNET/CABLE</b></p>
             <li>Sí tendrá instalaciones para teléfono/internet/cable.</li>
+            <p><b>IMPLEMENTACIÓN DEL SISTEMA SMART</b></p>
+            <li>Luminarias y toma corrientes en puntos estratégicos.</li>
+            <li>Acceso abierto para futuras implementaciones del propietario.</li>
 
 
 
