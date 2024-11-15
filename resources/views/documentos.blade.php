@@ -41,6 +41,8 @@
     <ul >
             <li><a href="{{ url('/documento13') }}">CONTRATO CONTADO</a></li>
             <li><a href="{{ url('/documento14') }}">CONTRATO FINANCIADO</a></li>
+            <li><a href="{{ url('/documento16') }}">CRONOGRAMA</a></li>
+
 
             </ul>
 </div>

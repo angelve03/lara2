@@ -66,4 +66,7 @@ Route::get('/documento14', function () {
 Route::get('/documento15', function () {
     return view('fichalaviña');
 });
+Route::get('/documento16', function () {
+    return view('cronograma');
+});
 
