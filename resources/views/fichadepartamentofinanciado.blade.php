@@ -31,8 +31,7 @@
     <br><br><br><br><br>
     <div class="clause">
         <p>
-        EL CLIENTE DECLARA CONOCER QUE EL PROYECTO CONDOMINIO LA RIBERA SE DESARROLLARÁ SOBRE EL PREDIO MATRIZ INSCRITO EN LA PARTIDA REGISTRAL N°02253033 DEL REGISTRO DE PREDIOS RURAL VALLE CHANCAY - LAMBAYEQUE/SECTOR SAN AGUSTIN/PREDIO PESCORAN/EN EL DISTRITO DE PIMENTEL DEL PROYECTO LA RIBERA PRIMERA ETAPA Y CON  PARTIDA ELECTRONICA Nº 11218355 SEGUNDA ETAPA, ES DE SU CONOCIMIENTO QUE LA EMPRESA QUE DESARROLLA Y PROMOCIONA EL PROYECTO ES ALITORRES INMOBILIARIA Y CONSTRUCTORA DEBIDAMENTE INSCRITA EN LA PARTIDA REGISTRAL N° 11328386.
-						
+        EL CLIENTE DECLARA CONOCER QUE EL PROYECTO CONDOMINIO LA RIBERA SE DESARROLLARÁ SOBRE EL PREDIO MATRIZ INSCRITO EN LA PARTIDA REGISTRAL N°02253033 DEL REGISTRO DE PREDIOS RURAL VALLE CHANCAY - LAMBAYEQUE/SECTOR SAN AGUSTIN/PREDIO PESCORAN/EN EL DISTRITO DE PIMENTEL DEL PROYECTO LA RIBERA PRIMERA ETAPA Y CON  PARTIDA ELECTRONICA Nº 11218354 SEGUNDA ETAPA, ES DE SU CONOCIMIENTO QUE LA EMPRESA QUE DESARROLLA Y PROMOCIONA EL PROYECTO ES ALITORRES INMOBILIARIA Y CONSTRUCTORA DEBIDAMENTE INSCRITA EN LA PARTIDA REGISTRAL N° 11328386.				
 </p>
     </div>
 
@@ -40,7 +39,7 @@
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <thead>
             <tr>
-                <th colspan="4" style="text-align: center; background-color:#FFF2CC;">DATOS CLIENTE</th>
+                <th colspan="4" style="background-color:#1F4E78;color: white; text-align: center;">DATOS DEL CLIENTE</th>
             </tr>
         </thead>
         <tbody>
@@ -98,7 +97,7 @@
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <thead>
             <tr>
-                <th colspan="4" style="text-align: center; background-color: #E2EFDA; ">DATOS DE LA CARGA FAMILIAR</th>
+                <th colspan="4" style="background-color:#1F4E78;color: white; text-align: center;">DATOS DE LA CARGA FAMILIAR</th>
             </tr>
         </thead>
         <tbody>
@@ -151,9 +150,9 @@
         <tbody>
             <tr>
                 <td>PISO:</td>
-                <td style="text-align: center; background-color: #FFFF00; ">A</td>
+                <td style="text-align: center; ">A</td>
                 <td>NÚMERO:</td>
-                <td style="text-align: center; background-color: #FFFF00; ">21</td>
+                <td style="text-align: center; ">21</td>
                 <td>AREA TOTAL:</td>
                 <td>72 M2</td>
                 <td>CONSTRUCCIÓN:</td>
@@ -172,7 +171,7 @@
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <thead>
             <tr>
-                <th colspan="4" style="text-align: center; background-color: #E2EFDA; " >MÉTODO DE PAGO AL CONTADO</th>
+                <th colspan="4" style="background-color:#1F4E78;color: white; text-align: center;" >MÉTODO DE PAGO AL CONTADO</th>
             </tr>
         </thead>
         <tbody>
@@ -210,17 +209,17 @@
 
             </tr>
             <td>SEPARACIÓN</td>
-            <td style="text-align: center; background-color: #FFFF00; ">S/.79805.00</td>
+            <td style="text-align: center; ">S/.79805.00</td>
             <td>DESCUENTO PROMOCIONAL</td>
-            <td style="text-align: center; background-color: #FFFF00; ">S/.79805.00</td>
+            <td style="text-align: center; ">S/.79805.00</td>
             
         </thead>                
                 
             <tr>
                 <td >INICIAL</td>
-                <td style="text-align: center; background-color: #FFFF00; ">S/.500.00</td>
+                <td style="text-align: center;">S/.500.00</td>
                 <td>DESCUENTO GERENCIAL</td>
-                <td style="text-align: center; background-color: #FFFF00; ">S/.500.00</td>
+                <td style="text-align: center;  ">S/.500.00</td>
             
             </tr>
             <tr>
@@ -308,9 +307,9 @@
         <tbody>
             <tr>
             <thead>
-            <td style="text-align: center; background-color: #FFFF00; width: 390px; ">FECHA DE INICIO</td>
+            <td style="background-color:#1F4E78;color: white; text-align: center; width: 390px; ">FECHA DE INICIO</td>
             <td style="width: 390px;"></td>
-            <td style="text-align: center; background-color: #FFFF00; width: 390px; ">FECHA DE PAGO (cuotas)</td>
+            <td style="background-color:#1F4E78;color: white; text-align: center; width: 390px; ">FECHA DE PAGO (cuotas)</td>
             <td style="width: 390px;"></td>
             
         </thead>                
@@ -432,20 +431,21 @@
         8. En caso el cliente no tenga la condición de elegible por el fondo mi vivienda, la empresa lo facultará a poder ceder su posición contractual a otra persona o grupo familiar que sí cumpla con esa condición, en el plazo máximo de 30 días, de lo contrario vencido dicho plazo, el presente contrato quedará resuelto aplicándole una penalidad del 20% del valor abonado hasta la fecha de resolución. Que el cliente complete el ahorro requerido por el fondo mi vivienda, para lo cual deberá acreditar haber efectuado previamente a favor del vendedor, el depósito por el importe correspondiente.
         </p>
         <p style="margin: 0;">
-        9.  El cliente manifiesta su intención de suscribir con la empresa el contrato de compra-venta, respecto de la unidad de vivienda especificada en el presente documento, la misma que tendrá la condición de bien futuro, hasta el trámite de recepción de obras.
+        9.  El cliente manifiesta su intención de suscribir con la empresa el contrato de compra-venta, respecto de la unidad de vivienda especificada en el presente documento, la misma que tendrá la condición de bien futuro, hasta el trámite de recepción de obras.</p>
+        <p style="margin: 0;">
+        10. Se informa al cliente que las solucitudes presentadas que no se encuentren contempladas en el presente convenio generarán los siguientes costos adicionales: cambio de ubicación tendrá un costo de s/150.00 traspaso de dinero un costo de s/100.00; cambio de fecha y modalidad de pago, a partir de la segunda presentación de solicitud, tendrá un costo de s/100.00; y la cesión de derecho, a partir de su segunda presentación, generará un costo de s/150.00 estos montos deberán ser asumidor y cancelados por el cliente previamente a la ejecición de cada solicitud.</p>
          <p style="margin: 0;"><B>RESERVA DE PROPIEDAD</B></p>
         <p style="margin: 0;">
+        11. El cliente declara conocer que la transferencia de propiedad a su favor se producirá automáticamente en la oportunidad de cancelación del íntegro del precio de venta.</p>
         <p style="margin: 0;">
-        10. El cliente declara conocer que la transferencia de propiedad a su favor se producirá automáticamente en la oportunidad de cancelación del íntegro del precio de venta.
-                <p style="margin: 0;">
-        11. El cliente declara brindar la información verídica para la postulación del bono familiar habitacional (BFH) a la firma del presente contrato.       
+        12. El cliente declara brindar la información verídica para la postulación del bono familiar habitacional (BFH) a la firma del presente contrato.   </p>    
          <p style="margin: 0;">
-        12. El cliente declara tener pleno conocimiento de la documentación del <B>CONDOMINIO LA RIBERA</B> y su promotor al momento de la firma del presente contrato.
+        13. El cliente declara tener pleno conocimiento de la documentación del <B>CONDOMINIO LA RIBERA</B> y su promotor al momento de la firma del presente contrato.</p>
         <p style="margin: 0;">
-        13. Para la validez de este contrato, el mismo se debe encontrar debidamente suscrito por el cliente con firma y huella.       
-         <p style="margin: 0;"><B>INFORMACIÓN DEL DOMICILIO, CORREO ELECTRÓNICO Y WHATSAPP:</B></p>
+        14. Para la validez de este contrato, el mismo se debe encontrar debidamente suscrito por el cliente con firma y huella.    </p>   
+         <p style="margin: 0;"><B>DEL DOMICILIO, CORREO ELECTRÓNICO Y WHATSAPP</B></p>
         <p style="margin: 0;">
-        14. El comprador a la firma del presente declara la veracidad de su domicilio, correo electrónico y WhatsApp indicado en la primera página del presente documento, para efecto de notificaciones.</p>
+        15. El comprador a la firma del presente declara la veracidad de su domicilio, correo electrónico y WhatsApp indicado en la primera página del presente documento, para efecto de notificaciones.        </p>
     </div>
     
     <div class="table-container">        
