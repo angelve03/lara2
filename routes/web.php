@@ -70,3 +70,13 @@ Route::get('/documento16', function () {
     return view('cronograma');
 });
 
+Route::get('/documento17', function () {
+    return view('contratocontadolaviña');
+});
+Route::get('/documento18', function () {
+    return view('contratofinanciadolaviña');
+});
+Route::get('/documento19', function () {
+    return view('cronogramalaviña');
+});
+

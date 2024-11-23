@@ -57,8 +57,13 @@
             </ul>
             <p >CONTRATOS - CONDOMINIO LA VIÑA 1ERA ETAPA</p>
     <ul >
-            <li><a href="{{ url('/#') }}">CONTRATO CONTADO</a></li>
-            <li><a href="{{ url('/#') }}">CONTRATO FINANCIADO</a></li>
+            <li><a href="{{ url('/documento17') }}">CONTRATO CONTADO</a></li>
+            <li><a href="{{ url('/documento18') }}">CONTRATO FINANCIADO</a></li>
+
+            </ul>
+            <p >CRONOGRAMA - CONDOMINIO LA VIÑA 1ERA ETAPA</p>
+    <ul >
+            <li><a href="{{ url('/documento19') }}">CRONOGRAMA</a></li>
 
             </ul>
             
