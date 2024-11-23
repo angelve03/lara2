@@ -514,7 +514,96 @@
             <td ></td>
             <td ></td>
             </tr>
-
+            <td >CUOTA 37</td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            </tr>
+            <td >CUOTA 38</td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            </tr>
+            <td >CUOTA 39</td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            </tr>
+            <td >CUOTA 40</td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            </tr>
+            <td >CUOTA 41</td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            </tr>
+            <td >CUOTA 42</td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            </tr>
+            <td >CUOTA 43</td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            </tr>
+            <td >CUOTA 44</td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            </tr>
+            <td >CUOTA 45</td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            </tr>
+            <td >CUOTA 46</td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            </tr>
+            <td >CUOTA 47</td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            </tr>
+            <td >CUOTA 48</td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            </tr>
+            <tr>   
+            <td colspan="2"   style="text-align: center; background-color:#FFFFAF;border-collapse: collapse; width: 100%;">MONTO A PAGAR</td>
+            <td colspan="1"   style="text-align: center; background-color:#FFFFAF;" ></td>
+            <td colspan="1"   style="text-align: center; background-color:#FFFFAF;" >NMONTO PAGADO</td>
+            <td colspan="1"   style="text-align: center; background-color:#FFFFAF;" ></td>
+            </tr>
 
 
         </thead>
@@ -527,18 +616,15 @@
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <thead>
              
-            <tr>
-            <td >MONTO  A PAGAR</td>
-            <td ></td>
-            </tr>
-
-            <tr>
-            <td >MONTO PAGADO CON INICIAL</td>
-            <td ></td>
-            </tr>
-            
+          
             <tr>   
-            <td colspan="2"   style="text-align: center; background-color:#FFFFAF;" >DEPOSITAR A  CTA. BCP: 3056967606064   O     CCI: 00230500696760606418</td>
+            <td colspan="2"   style="text-align: center; background-color:#FFFFAF;" >DEPOSITAR A  CTA. BBVA: 001103480200394278   O     CCI: 01134800020039427802</td>
+            </tr>
+            <tr>   
+            <td colspan="2"   style="text-align: center; background-color:#FFFFAF;" >DEPOSITAR A  CTA. BCP: 3059843761035   O     CCI: 00230500984376103519</td>
+            </tr>
+            <tr>   
+            <td colspan="2"   style="text-align: center; background-color:#FFFFAF;" >DEPOSITA A CTA. CAJA PIURA: 210014282113  o CCI: 8010112100148211387</td>
             </tr>
         </thead>
         

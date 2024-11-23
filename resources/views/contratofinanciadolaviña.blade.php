@@ -9,7 +9,7 @@
          .background-container {
         position: relative;
         width: 100%;
-        height: 100vh; 
+        height: 211vh; 
         background-image: url('{{ asset('img/laviñafondo.png') }}');
         background-size: cover; 
         background-position: center 0%;
@@ -34,11 +34,11 @@
 
     <div class="clause">
     <p style="margin-left: 5em;">
-    La empresa INMOBILIARIA &CONSTRUTORA ALI TORRES E.I.RL., identificado con RUC N°20605585907, inscrita en la Partida Electrónica N°11328386 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General don ELVIS HENRY TORRES SALDAÑA, identificado con DNI N° 42225869, con poderes inscritos en el asiento N° C00001, quien en adelante se le denominará EL VENDEDOR;
+    La empresa <b>INMOBILIARIA &CONSTRUTORA ALI TORRES E.I.RL.</b>, identificado con RUC N°20605585907, inscrita en la Partida Electrónica N°11328386 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General don <b>ELVIS HENRY TORRES SALDAÑA</b>, identificado con DNI N° 42225869, con poderes inscritos en el asiento N° C00001, quien en adelante se le denominará <b>EL VENDEDOR</b>;
 </p>
 
-    <p style="margin-left: 5em; background-color:#FFFF00;">
-    De otra--------------------------------, identificado con DNI N°----------, de estado civil----------, con domicilio en ---------------------------------------Distrito---------------, Provincia ---------y Departamento de-----------, con número de celular----------------, con correo electrónico,-------------------------- a quien en adelante se le denominará EL COMPRADOR; </p>
+    <p >
+    De otra--------------------------------, identificado con DNI N°----------, de estado civil----------, con domicilio en ---------------------------------------Distrito---------------, Provincia ---------y Departamento de-----------, con número de celular----------------, con correo electrónico,-------------------------- a quien en adelante se le denominará <b>EL COMPRADOR</b>; </p>
     </div>
     <p>Quienes declaran estar en uso de sus plenos derechos suscribiendo los términos y condiciones de las cláusulas siguientes:</p>
     
@@ -46,7 +46,7 @@
     <div class="clause">
         <p><b><u>PRIMERA: ANTECEDENTES DEL CONSORCIO:</u></b></p>
         <p>
-        <b>La empresa INMOBILIARIA &CONSTRUTORA ALITORRES E.I.RL., identificado con RUC N°20605585907, inscrita en la Partida Electrónica N°11328386 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General don ELVIS HENRY TORRES SALDAÑA, identificado con DNI N° 42225869, con poderes inscritos en el asiento N° C00001, de la referida partida electrónica.      
+        La empresa INMOBILIARIA &CONSTRUTORA ALITORRES E.I.RL., identificado con RUC N°20605585907, inscrita en la Partida Electrónica N°11328386 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General don ELVIS HENRY TORRES SALDAÑA, identificado con DNI N° 42225869, con poderes inscritos en el asiento N° C00001, de la referida partida electrónica.      
         </p>
         
         
@@ -56,15 +56,15 @@
     <div class="clause">
     <p><b><u>SEGUNDO: ANTECEDENTES DEL BIEN INMUEBLE:</u></b></p>
     <p>
-    <b>LA INMOBILIARIA, ha elaborado un proyecto de habilitación urbana con construcción simultanea de viviendas en adquisición de vivienda nueva del programa Techo Propio del fondo mi vivienda denominada Condominio LA VIÑA, que en adelante se denominara EL PROYECTO.</b>.
+    <b>LA INMOBILIARIA</b>, ha elaborado un proyecto de habilitación urbana con construcción simultanea de viviendas en adquisición de vivienda nueva del programa Techo Propio del fondo mi vivienda denominada Condominio LA VIÑA, que en adelante se denominara <b>EL PROYECTO.</b>.
         </p>
-        Asimismo, la empresa INMOBILIARIA &CONSTRUTORA ALI TORRES E.I.RL., identificado con RUC N°20605585907, inscrita en la Partida Electrónica N°11328386 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General don ELVIS HENRY TORRES SALDAÑA, identificado con DNI N° 42225869, con poderes inscritos en el asiento N° C00001, de la referida partida electrónica,  DECLARA SER EL ÚNICO Y EXCLUSIVO PROPIETARIO DEL INMUEBLE SIGNADO COMO: VALLE LA LECHE/SECTOR SANCARRANCO/ SANTA CECILIA PARCELA # 23, DEL DISTRITO DE JAYANCA PROVINCIA Y DEPARTAMENTO DE LAMBAYEQUE, CUYO DOMINIO A SU FAVOR SE ENCUENTRA DEBIDAMENTE INSCRITO EN LA PARTIDA ELECTRÓNICA N° 02296304 DEL REGISTRO DE PREDIOS DE LA OFICINA REGISTRAL DE CHICLAYO, INMUEBLE QUE CUENTA CON UNA EXTENSIÓN SUPERFICIAL DE (7.8612 HAS) CUYAS DEMÁS CARACTERÍSTICAS Y ESPECIFICACIONES TÉCNICAS APARECEN DESCRITOS EN LA PARTIDA predio que en lo sucesivo se le denominará EL INMUEBLE, mismo que se encuentra sujeto al EL PROYECTO. 
+        Asimismo, la empresa INMOBILIARIA &CONSTRUTORA ALI TORRES E.I.RL., identificado con RUC N°20605585907, inscrita en la Partida Electrónica N°11328386 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General don ELVIS HENRY TORRES SALDAÑA, identificado con DNI N° 42225869, con poderes inscritos en el asiento N° C00001, de la referida partida electrónica,  DECLARA SER EL ÚNICO Y EXCLUSIVO PROPIETARIO DEL INMUEBLE SIGNADO COMO: VALLE LA LECHE/SECTOR SANCARRANCO/ SANTA CECILIA PARCELA # 23, DEL DISTRITO DE JAYANCA PROVINCIA Y DEPARTAMENTO DE LAMBAYEQUE, CUYO DOMINIO A SU FAVOR SE ENCUENTRA DEBIDAMENTE INSCRITO EN LA PARTIDA ELECTRÓNICA N° 02296304 DEL REGISTRO DE PREDIOS DE LA OFICINA REGISTRAL DE CHICLAYO, INMUEBLE QUE CUENTA CON UNA EXTENSIÓN SUPERFICIAL DE (7.8612 HAS) CUYAS DEMÁS CARACTERÍSTICAS Y ESPECIFICACIONES TÉCNICAS APARECEN DESCRITOS EN LA PARTIDA predio que en lo sucesivo se le denominará <b>EL INMUEBLE</b>, mismo que se encuentra sujeto al EL PROYECTO. 
         </p>
   </div>
   <div class="clause">
     <p><b><u>TERCERO: DEL BIEN MATERIA A TRANSFERIR:</u></b></p>
-    <p style="background-color:#FFFF00;">
-    Por el presente contrato el prominente VENDEDOR se compromete a dar en venta real  de  la MZ -- LT --, y en enajenación perpetua la totalidad del lote --M2, donde según plano adjunto, cuyos linderos y medidas perimétricas detallan --M2 de área total y --M2 del área construida. DETALLES (ANEXO 02)</p>
+    <p >
+    Por el presente contrato el prominente <b>VENDEDOR</b> se compromete a dar en venta real  de  la <b>MZ -- LT --</b>, y en enajenación perpetua la totalidad del lote --M2, donde según plano adjunto, cuyos linderos y medidas perimétricas detallan --M2 de área total y --M2 del área construida. <b>DETALLES (ANEXO 02)</b></p>
     </div>
     </div>
 
@@ -93,28 +93,28 @@
      <div class="clause">
     <p><b><u>CUARTO: OBJETO DEL CONTRATO:</u></b></p>
    
-        <p>Por el presente contrato, EL VENDEDOR se obliga a transferir la propiedad del bien descrito en la cláusula segunda a en favor de EL COMPRADOR. Por su parte, EL COMPRADOR se obliga a pagar a EL VENDEDOR el monto total del precio pactado en la cláusula siguiente, en la forma y oportunidad convenidas.</p>
+        <p>Por el presente contrato, <b>EL VENDEDOR</b> se obliga a transferir la propiedad del bien descrito en la cláusula segunda a en favor de <b>EL COMPRADOR</b>. Por su parte, <b>EL COMPRADOR</b> se obliga a pagar a <b>EL VENDEDOR</b> el monto total del precio pactado en la cláusula siguiente, en la forma y oportunidad convenidas.</p>
 
     </div>
 
     <div class="clause">
     <p><b><u>QUINTO: PRECIO Y FORMA DE PAGO:</u></b></p>
    
-        <p >El precio del bien objeto de la prestación a cargo de EL VENDEDOR asciende a la suma de S/ 00,000.00 (-----------------------------------00/100 Soles), dicho precio se encuentra ya con el descuento del BFH que será cancelado por EL COMPRADOR mediante depósito en la cuenta de ALITORRES siendo el N° de cuotas en la forma establecida conforme al Cronograma de Pagos descrito en el ANEXO 1.</p>
-        <p >Su inicial abonada es de s/.  0,000.00 (------------ 0/100 Soles) y el saldo de S/ 00,000.00 (------------------------------- 00/100 Soles) será financiado según cronograma de pagos ANEXO 1.</p>
+        <p >El precio del bien objeto de la prestación a cargo de <b>EL VENDEDOR</b> asciende a la suma de S/ 00,000.00 (-----------------------------------00/100 Soles), dicho precio se encuentra ya con el descuento del BFH que será cancelado por <b>EL COMPRADOR</b> mediante depósito en la cuenta de ALITORRES siendo el N° de cuotas en la forma establecida conforme al Cronograma de Pagos descrito en el <b>ANEXO 1</b>.</p>
+        <p >Su inicial abonada es de s/.  0,000.00 (------------ 0/100 Soles) y el saldo de S/ 00,000.00 (------------------------------- 00/100 Soles) será financiado según cronograma de pagos <b>ANEXO 1</b>.</p>
 
     </div>
 
     <div class="clause">
     <p><b><u>SEXTO: OBLIGACIONES DE LAS PARTES:</u></b></p>
    
-        <p>EL VENDEDOR se obliga a entregar el bien objeto de la prestación a su cargo en la fecha pactada en la cláusula décimo quinto y tener todas las cuotas canceladas descritas en el ANEXO 01, acto que se verificará con el acta de entrega del bien inmueble, procurándole a EL COMPRADOR tomar efectiva posesión de dicho bien. (ANEXO 02) </p>
+        <p><b>EL VENDEDOR</b> se obliga a entregar el bien objeto de la prestación a su cargo en la fecha pactada en la cláusula décimo quinto y tener todas las cuotas canceladas descritas en el <b>ANEXO 01</b>, acto que se verificará con el acta de entrega del bien inmueble, procurándole a<b> EL COMPRADOR </b>tomar efectiva posesión de dicho bien.<b> (ANEXO 02)</b> </p>
 
-        <p>Del mismo modo, EL COMPRADOR se obliga a pagar el precio convenido en el momento y forma pactados en la cláusula cuarta de este documento.</p>
+        <p>Del mismo modo, <b>EL COMPRADOR</b> se obliga a pagar el precio convenido en el momento y forma pactados en la cláusula cuarta de este documento.</p>
 
-        <p>Asimismo, EL VENDEDOR se obliga a realizar todos los actos y a suscribir todos los documentos que sean necesarios, a fin de formalizar la transferencia de la propiedad del bien objeto de la prestación a su cargo, en favor del COMPRADOR.</p>
+        <p>Asimismo, <b>EL VENDEDOR </b>se obliga a realizar todos los actos y a suscribir todos los documentos que sean necesarios, a fin de formalizar la transferencia de la propiedad del bien objeto de la prestación a su cargo, en favor del <b>COMPRADOR</b>.</p>
 
-        <p>EL COMPRADOR deberán recibir el bien objeto de la prestación a cargo de EL VENDEDOR, en la forma y oportunidad pactadas, declarando conocer el estado de conservación y habitabilidad en que se encuentra.</p>
+        <p><b>EL COMPRADOR</b> deberán recibir el bien objeto de la prestación a cargo de<b> EL VENDEDOR</b>, en la forma y oportunidad pactadas, declarando conocer el estado de conservación y habitabilidad en que se encuentra.</p>
 
     </div>
 
@@ -143,17 +143,17 @@
     <div class="clause">
     <p><b><u>OCTAVO: GASTOS Y TRIBUTOS:</u></b></p>
    
-        <p>Las partes acuerdan que todos los gastos y tributos que origine la celebración, formalización y  ejecución del presente contrato serán asumidos por EL COMPRADOR.</p>
+        <p>Las partes acuerdan que todos los gastos y tributos que origine la celebración, formalización y  ejecución del presente contrato serán asumidos por <b>EL COMPRADOR</b>.</p>
 
-        <p>EL VENDEDOR declara que, al momento de celebrarse este contrato, no tiene ninguna obligación tributaria pendiente de pago respecto del bien objeto de la prestación a su cargo.</p>
+        <p><b>EL VENDEDOR</b> declara que, al momento de celebrarse este contrato, no tiene ninguna obligación tributaria pendiente de pago respecto del bien objeto de la prestación a su cargo.</p>
 
-        <p>En las relaciones personales entre las partes, EL VENDEDOR asumirá o reembolsará a EL COMPRADOR, si es el caso, los tributos que correspondan a la bien materia de la venta hasta antes de la transferencia; mientras que EL COMPRADOR, por su parte, asumirán los tributos que se generen con motivo de dicha transferencia y con posterioridad a ella</p>
+        <p>En las relaciones personales entre las partes, <b>EL VENDEDOR</b> asumirá o reembolsará a <b>EL COMPRADOR</b>, si es el caso, los tributos que correspondan a la bien materia de la venta hasta antes de la transferencia; mientras que <b>EL COMPRADOR</b>, por su parte, asumirán los tributos que se generen con motivo de dicha transferencia y con posterioridad a ella</p>
     </div>
 
     <div class="clause">
     <p><b><u>NOVENA: DE LA RESOLUCIÓN DEL CONTRATO:</u></b></p>
    
-        <p>Las partes acuerdan que, en caso de incumplimiento por parte del COMPRADOR de no cancelar hasta la quinta cuota, respecto de su obligación de cancelar el precio pactado sobre el inmueble descrito en la cláusula Segunda, en la forma y fecha convenidas, el contrato quedará resuelto y el VENDEDOR, conservará de modo definitivo la suma de dinero entregado por parte de EL COMPRADOR con anterioridad a la fecha de resolución de contrato. Por otra parte, en caso el COMPRADOR desista de la compra, la devolución será el 50% del monto de dinero aportado a partir de la sexta cuota en adelante. En ambos escenarios, sin ser sujetos a RECLAMO.</p>
+        <p>Las partes acuerdan que, en caso de incumplimiento por parte del <b>COMPRADOR </b>de no cancelar hasta la quinta cuota, respecto de su obligación de cancelar el precio pactado sobre el inmueble descrito en la cláusula Segunda, en la forma y fecha convenidas, el contrato quedará resuelto y el <b>VENDEDOR</b>, conservará de modo definitivo la suma de dinero entregado por parte de <b>EL COMPRADOR</b> con anterioridad a la fecha de resolución de contrato. Por otra parte, en caso el <b>COMPRADOR </b>desista de la compra, la devolución será el 50% del monto de dinero aportado a partir de la sexta cuota en adelante. En ambos escenarios, sin ser sujetos a RECLAMO.</p>
         <p>Si el incumplimiento proviene del prominente, EL VENDEDOR, la otra parte podrá solicitar su devolución del monto abonado.</p>
 
     </div>
@@ -161,7 +161,7 @@
     <div class="clause">
     <p><b><u>DÉCIMA: DE LA GARANTÍA DE LA COMPRAVENTA:</u></b></p>
    
-        <p>EL VENDEDOR se reserva la propiedad del inmueble descrito en la Cláusula Segunda hasta que EL COMPRADOR hayan pagado en su totalidad las cuotas establecidas como precio de venta, de conformidad con el artículo 1583º del Código Civil.</p>
+        <p><b>EL VENDEDOR </b>se reserva la propiedad del inmueble descrito en la Cláusula Segunda hasta que <b>EL COMPRADOR</b> hayan pagado en su totalidad las cuotas establecidas como precio de venta, de conformidad con el artículo 1583º del Código Civil.</p>
 
     </div>
 
@@ -193,7 +193,7 @@
     <div class="clause">
     <p><b><u>DECIMO TERCERO: CONOCIMIENTO DE LAS NORMAS DEL BFH</u></b></p>
    
-        <p>Las partes declaran conocer las normas que reglamentan el Bono Familiar Habitacional (BFH) obligándose al cumplimiento de las mismas, entre las que están las referidas a las causales de pérdida, devolución y renuncia al BFH, así como la comprobación de falsedad en la información de EL COMPRADOR como participante del BFH y las normas sobre la disponibilidad de la vivienda  adquirida con el referido subsidio,</p>
+        <p>Las partes declaran conocer las normas que reglamentan el Bono Familiar Habitacional (BFH) obligándose al cumplimiento de las mismas, entre las que están las referidas a las causales de pérdida, devolución y renuncia al BFH, así como la comprobación de falsedad en la información de <b>EL COMPRADOR</b> como participante del BFH y las normas sobre la disponibilidad de la vivienda  adquirida con el referido subsidio,</p>
 
 
         <p>Asimismo, las partes declaran conocer lo señalado en las normas que regulan en BFH respecto a que los asientos de inscripción de transferencia de propiedad de viviendas adquiridas con el financiamiento del BFH consignarán adicionalmente en el resumen del acto, lo siguiente.</p>
@@ -201,7 +201,7 @@
         
     <div class="clause">
         <p style="margin-left: 5em;">a)	Que la adquisición de la vivienda se ha financiado con el BFH.</p>
-        <p style="margin-left: 5em;">b)	Que, para la inscripción de una transferencia de la propiedad de la vivienda a un tercero, que hubiese efectuado EL COMPRADOR dentro del plazo de restricción establecido por las normas que regulan en BFH será necesaria la Constancia Favorable emitida por el  Fondo MI VIVIENDA S.A. por lo que sin esta constancia no podrá inscribirse dicha transferencia de propiedad. En este caso EL COMPRADOR procederá a la devolución inmediata del importe del BFH y de los intereses generados según corresponda, al Fondo MI VIVIENDA S.A.</p>
+        <p style="margin-left: 5em;">b)	Que, para la inscripción de una transferencia de la propiedad de la vivienda a un tercero, que hubiese efectuado<b> EL COMPRADOR</b> dentro del plazo de restricción establecido por las normas que regulan en BFH será necesaria la Constancia Favorable emitida por el  Fondo MI VIVIENDA S.A. por lo que sin esta constancia no podrá inscribirse dicha transferencia de propiedad. En este caso <b>EL COMPRADOR</b> procederá a la devolución inmediata del importe del BFH y de los intereses generados según corresponda, al Fondo MI VIVIENDA S.A.</p>
         <p>Por tanto, en cumplimiento de la norma antes referida, por este documento se solicita al Registrador cumpla con inscribir lo señalado en los literales a) y b) que anteceden.</p>
 
     </div>
@@ -211,11 +211,11 @@
    
         <p>Ambas partes declaran que serán causales de resolución del presente contrato, de acuerdo a lo estipulado en el Art 1430° del Código Civil, las siguientes:</p>
 
-        <p style="margin-left: 5em;">a)	Que EL COMPRADOR incurra en las causales de pérdida del derecho al BFH según las normas que lo regulan.</p>
-        <p style="margin-left: 5em;">b)	La renuncia del COMPRADOR al BFH realizada según las normas del BFH.</p>
-        <p style="margin-left: 5em;">c)	Si en el plazo de treinta y seis (36) meses contados desde la firma del presente contrato, EL COMPRADOR no llegase a ser beneficiario del BFH, dejando ambas partes claramente establecidas que esta causal también se verificará con la primera denegación de la asignación del BFH a EL COMPRADOR aun así no se hubiese terminado de cumplir el plazo de treinta y seis (36) meses.</b></p>
-        <p style="margin-left: 5em;">d)	Si EL COMPRADOR no cumple con su obligación de cancelar el precio pactado sobre el inmueble descrito en la Cláusula Quinta, en la forma y fecha convenidas, el contrato quedará resuelto y el VENDEDOR, conservará de modo definitivo la suma de dinero entregado por parte del COMPRADOR con anterioridad a la fecha de resolución de contrato.</p>
-        <p style="margin-left: 5em;">e)	Si EL VENDEDOR, incumpliera alguna de sus obligaciones mencionadas en el presente contrato la otra parte podrá solicitar la devolución total de las sumas entregadas.</p>
+        <p style="margin-left: 5em;">a)	Que EL <b>COMPRADOR</b> incurra en las causales de pérdida del derecho al BFH según las normas que lo regulan.</p>
+        <p style="margin-left: 5em;">b)	La renuncia del <b>COMPRADOR</b> al BFH realizada según las normas del BFH.</p>
+        <p style="margin-left: 5em;">c)	Si en el plazo de treinta y seis (36) meses contados desde la firma del presente contrato, <b>EL COMPRADOR</b> no llegase a ser beneficiario del BFH, dejando ambas partes claramente establecidas que esta causal también se verificará con la primera denegación de la asignación del BFH a EL COMPRADOR aun así no se hubiese terminado de cumplir el plazo de treinta y seis (36) meses.</b></p>
+        <p style="margin-left: 5em;">d)	Si EL <b>COMPRADOR</b> no cumple con su obligación de cancelar el precio pactado sobre el inmueble descrito en la Cláusula Quinta, en la forma y fecha convenidas, el contrato quedará resuelto y el VENDEDOR, conservará de modo definitivo la suma de dinero entregado por parte del <b>COMPRADOR</b> con anterioridad a la fecha de resolución de contrato.</p>
+        <p style="margin-left: 5em;">e)	Si <b>EL VENDEDOR</b>, incumpliera alguna de sus obligaciones mencionadas en el presente contrato la otra parte podrá solicitar la devolución total de las sumas entregadas.</p>
         <p>La resolución de pleno derecho por las causales antes señaladas se producirá, sin necesidad de declaración judicial o extrajudicial, cuando alguna de las partes del presente contrato de compra venta comunique por conducto notarial a la otra parte que quiere valerse de la cláusula resolutoria.</p>
     </div>
         </div>
@@ -231,26 +231,26 @@
     <div class="clause">
     <p><b><u>DECIMO QUINTO: OBLIGACIONES DE LAS PARTES:</u></b></p>
    
-        <p>EL VENDEDOR se obliga frente a EL COMPRADOR a entregar el inmueble de la presente  compra venta en condiciones de habitabilidad y según la lista de acabados que figura en las Especificaciones Técnicas. (ANEXO 02)</p>
+        <p><b>EL VENDEDOR</b> se obliga frente a <b>EL COMPRADOR </b>a entregar el inmueble de la presente  compra venta en condiciones de habitabilidad y según la lista de acabados que figura en las Especificaciones Técnicas.<b> (ANEXO 02)</b></p>
 
-        <p>El plazo de entrega de la vivienda será en un plazo de 36 meses que será contabilizado a partir del cumplimiento de la condición del bonista, es decir que se haya asignado a EL COMPRADOR el BFH. Asimismo, las partes acuerdan que será condición de la entrega del inmueble la cancelación total del precio de la presente compraventa y la firma de la Escritura Pública de Compraventa correspondiente. La entrega se llevará a cabo mediante suscripción de Acta de entrega y Recepción correspondiente.</p>
+        <p>El plazo de entrega de la vivienda será en un plazo de <b>36 meses</b> que será contabilizado a partir del cumplimiento de la condición del bonista, es decir que se haya asignado a <b>EL COMPRADOR</b> el BFH. Asimismo, las partes acuerdan que será condición de la entrega del inmueble la cancelación total del precio de la presente compraventa y la firma de la Escritura Pública de Compraventa correspondiente. La entrega se llevará a cabo mediante suscripción de Acta de entrega y Recepción correspondiente.</p>
 
-        <p>El mencionado plazo podrá ser prorrogado a solicitud del VENDEDOR por causas debidamente fundamentadas que acrediten que la demora en la entrega se debe a razones de caso fortuito o fuerza mayor, para lo que se requerirá acuerdo entre las partes.</p>
+        <p>El mencionado plazo podrá ser prorrogado a solicitud del <b>VENDEDOR</b> por causas debidamente fundamentadas que acrediten que la demora en la entrega se debe a razones de caso fortuito o fuerza mayor, para lo que se requerirá acuerdo entre las partes.</p>
         </div>
         
 <div class="clause">
-        <p>Para efectos de la entrega del inmueble EL VENDEDOR deberá citar de manera escrita a EL COMPRADOR indicando la fecha y hora de entrega de la vivienda materia de la presenta compraventa con una anticipación no menor a 10 días calendario. De no haberse presentado EL COMPRADOR, EL VENDEDOR lo citará nuevamente con una anticipación no menor a (4) días calendario, esta vez vía notarial, bajo apercibimiento de considerarse entregada la vivienda a entera conformidad de EL COMPRADOR.</p>
+        <p>Para efectos de la entrega del inmueble <b>EL VENDEDOR</b> deberá citar de manera escrita a <b>EL COMPRADOR</b> indicando la fecha y hora de entrega de la vivienda materia de la presenta compraventa con una anticipación no menor a 10 días calendario. De no haberse presentado <b>EL COMPRADOR</b>, <b>EL VENDEDOR</b> lo citará nuevamente con una anticipación no menor a (4) días calendario, esta vez vía notarial, bajo apercibimiento de considerarse entregada la vivienda a entera conformidad de <b>EL COMPRADOR</b>.</p>
 
-        <p>Asimismo, EL VENDEDOR se obliga a realizar todos los actos y a suscribir todos los documentos que sean necesarios, a fin de formalizar la transferencia de la propiedad del bien objeto de la prestación a su cargo, en favor de EL COMPRADOR.</p>
+        <p>Asimismo,<b> EL VENDEDOR </b>se obliga a realizar todos los actos y a suscribir todos los documentos que sean necesarios, a fin de formalizar la transferencia de la propiedad del bien objeto de la prestación a su cargo, en favor de <b>EL COMPRADOR</b>.</p>
 
-        <p>Del mismo modo, EL COMPRADOR se obliga a pagar el precio convenido en el momento y forma pactados en la cláusula quinta de este documento.</p>
+        <p>Del mismo modo, <b>EL COMPRADOR</b> se obliga a pagar el precio convenido en el momento y forma pactados en la cláusula quinta de este documento.</p>
 
-        <p>EL COMPRADOR deberá recibir el bien objeto de la prestación a cargo de EL VENDEDOR, en la forma y oportunidad pactadas, declarando conocer el estado de conservación y habitabilidad en que se encuentra.</p>
+        <p>EL COMPRADOR deberá recibir el bien objeto de la prestación a cargo de <b>EL VENDEDOR</b>, en la forma y oportunidad pactadas, declarando conocer el estado de conservación y habitabilidad en que se encuentra.</p>
     </div>
     <div class="clause">
     <p><b><u>DÉCIMO SEXTO: APLICACIÓN SUPLETORIA DE LA LEY:</u></b></p>
    
-        <p>En todo lo no previsto por las partes en el presente contrato, ambas se someten a lo establecido por las normas del Código Civil y demás del sistema jurídico que resulten aplicables. Finalmente, leídas todas y cada una de las cláusulas antes estipuladas, EL VENDEDOR Y EL COMPRADOR declararon estar conformes con su contenido, y para mayor validez del presente documento procedieron a firmar y estampar sus huellas digitales, en señal de conformidad.</p>
+        <p>En todo lo no previsto por las partes en el presente contrato, ambas se someten a lo establecido por las normas del Código Civil y demás del sistema jurídico que resulten aplicables. Finalmente, leídas todas y cada una de las cláusulas antes estipuladas, <b>EL VENDEDOR Y EL COMPRADOR</b> declararon estar conformes con su contenido, y para mayor validez del presente documento procedieron a firmar y estampar sus huellas digitales, en señal de conformidad.</p>
 
 
 
