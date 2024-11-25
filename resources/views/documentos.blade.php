@@ -28,8 +28,8 @@
         <ul >
             <li><a href="{{ url('/documento6') }}">FICHA CONTADO</a></li>
             <li><a href="{{ url('/documento7') }}">FICHA FINANCIADO</a></li>
-            <li><a href="{{ url('/documento8') }}">CONTRATO CONTADO</a></li>
-            <li><a href="{{ url('/documento9') }}">CONTRATO FINANCIADO</a></li>
+            <li><a href="{{ url('/documento9') }}">CONTRATO CONTADO</a></li>
+            <li><a href="{{ url('/documento8') }}">CONTRATO FINANCIADO</a></li>
             <li><a href="{{ url('/documento10') }}">CRONOGRAMA</a></li>
         </ul>
             
