@@ -44,7 +44,7 @@
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <thead style="text-align: center; ">
             <tr>
-            <td style="background-color:#1F4E78;color: white;">PROYECTO</td>
+            <td style="background-color:#4D5656;color: white;">PROYECTO</td>
             </tr>
             <tr>
             <td>CONDOMINIO LA VIÑA</td>
@@ -60,7 +60,7 @@
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <thead>
             <tr>
-                <th colspan="6" style="text-align: center; background-color:#1F4E78; color: white;">DATOS DEL CLIENTE</th>
+                <th colspan="6" style="text-align: center; background-color:#4D5656; color: white;">DATOS DEL CLIENTE</th>
             </tr>
         </thead>
         <tbody>
@@ -96,7 +96,7 @@
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <thead>
             <tr>
-            <td colspan="4"   style="text-align: center; background-color:#1F4E78;color: white;">PROMOTORÍA</td>
+            <td colspan="4"   style="text-align: center; background-color:#4D5656;color: white;">PROMOTORÍA</td>
 
             </tr>
             <tr>
@@ -121,94 +121,84 @@
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <thead>
             <tr>
-            <td colspan="6"   style="text-align: center;background-color:#1F4E78;color: white; ">DATOS DEL PREDIO</td>
+            <td colspan="6"   style="text-align: center;background-color:#4D5656;color: white; ">DATOS DEL PREDIO</td>
             </tr>
 
             <tr>
-            <td >UBICACIÓN</td>
+            <td >UBICACIÓN:</td>
             <td ></td>
-            <td >DESC. PROMOCIONAL	
+            <td >PRECIO LISTA:	
             </td>
             <td ></td>
-            <td >PRECIO DE LISTA	
+            <td rowspan="2">PRECIO TOTAL DE VENTA:	
             </td>
-            <td ></td>
+            <td rowspan="2"></td>
             </tr>
 
             <tr>
-            <td >TIPO DE DPA
+            <td >AREA DE LOTE(M2):
             </td>
             <td ></td>
-            <td >DESC. OTROS	
+            <td >INICIAL S/ :  	
             </td>
             <td ></td>
-            <td >BONO HABITACIONAL	
-            </td>
-            <td ></td>
+
             </tr>
             
             <tr>
-            <td >ÁREA TOTAL
+            <td >AREA CONSTRUIDA:
             </td>
             <td ></td>
-            <td >PLAZO	
+            <td >PLAZO: 	
             </td>
             <td ></td>
-            <td >PRECIO TOTAL	
-            </td>
-            <td ></td>
-            </tr>
-
-            <tr>
-            <td >ÁREA CONSTRUIDA
-            </td>
-            <td ></td>
-            <td >TIPO DE PAGO	
-            </td>
-            <td ></td>
-            <td >DESCUENTO TOTAL	
+            <td >BONO HABITACIONAL:	
             </td>
             <td ></td>
             </tr>
 
             <tr>
-            <td >FECHA DE INICIO
+            <td >FECHA DE INICIO:
             </td>
             <td ></td>
-            <td >1º - 6º MES	
+            <td >TASA INT.MES:	
             </td>
             <td ></td>
-            <td >PRECIO CON DESCUENTO	
-            </td>
-            <td ></td>
-            </tr>
-
-            <tr>
-            <td >FECHA DE PAGO
-            </td>
-            <td ></td>
-            <td >7º - 12º MES	
-            </td>
-            <td ></td>
-            <td >PAGO INICIAL	
+            <td >DESCUENTO:	
             </td>
             <td ></td>
             </tr>
 
             <tr>
-    <td>FECHA FINAL</td>
-    <td></td>
-    <td>13º - 18º MES</td>
-    <td></td>
-    <td rowspan="2">PAGO FINANCIADO</td>
-    <td></td>
+            <td rowspan="4">FECHA DE INICIO
+            </td>
+            <td rowspan="4">25/12/2028</td>
+            <td rowspan="4">CUOTA MES:
+            </td>
+            <td ></td>
+            <td >12 MESES	
+            </td>
+            <td ></td>
+            </tr>
+
+            <tr>
+            <td >
+            </td>
+            <td >12 MESES		
+            </td>
+            <td ></td>
+            
+            </tr>
+
+            <tr>
+            <td></td>
+            <td>12 MESES	</td>
+            <td></td>
 </tr>
 
 <tr>
-    <td>FECHA ESPECIAL</td>
     <td></td>
-    <td>19º - 36º MES</td>
-    <td></td>
+    <td>12 MESES	</td>
     <td></td>
 </tr>
 
@@ -225,16 +215,16 @@
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
         <thead>
             <tr>
-            <td colspan="6"   style="text-align: center; background-color:#1F4E78;color: white;">CRONOGRAMA DE PAGOS </td>
+            <td colspan="6"   style="text-align: center; background-color:#4D5656;color: white;">CRONOGRAMA DE PAGOS </td>
             </tr>
 
             <tr>
-            <td >CUOTAS</td>
-            <td >PROGRAMACIÓN</td>
-            <td >MONTO PAGADO </td>
-            <td >FECHA DE CUOTAS</td>
-            <td >MONTO PAGADO</td>
-            <td >N° DE BOLETA</td>
+            <td style="background-color:#BDC3C7;">ETIQUETA DE PAGO</td>
+            <td style="background-color:#BDC3C7;">FECHA PROGRAMADA</td>
+            <td style="background-color:#BDC3C7;">CUOTA A PAGAR </td>
+            <td style="background-color:#BDC3C7;">FECHA PAGO DE CUOTA</td>
+            <td style="background-color:#BDC3C7;">MONTO PAGADO</td>
+            <td style="background-color:#BDC3C7;">N° DE BOLETA</td>
             </tr>
 
             <tr>
@@ -598,11 +588,17 @@
             <td ></td>
             <td ></td>
             </tr>
+            
             <tr>   
-            <td colspan="2"   style="text-align: center; background-color:#FFFFAF;border-collapse: collapse; width: 100%;">MONTO A PAGAR</td>
-            <td colspan="1"   style="text-align: center; background-color:#FFFFAF;" ></td>
-            <td colspan="1"   style="text-align: center; background-color:#FFFFAF;" >NMONTO PAGADO</td>
-            <td colspan="1"   style="text-align: center; background-color:#FFFFAF;" ></td>
+            <td colspan="2"   style="text-align: center; background-color:#;border-collapse: collapse; width: %;">MONTO A PAGAR</td>
+            <td colspan="1"   style="text-align: center; background-color:#;" ></td>
+            <td colspan="1"   style="text-align: center; background-color:#;border-collapse: collapse; width: %;" >MONTO PAGADO</td>
+            <td colspan="1"   style="text-align: center; background-color:#;" ></td>
+            </tr>
+            <tr>   
+            <td colspan="4"   style="text-align: center; background-color:#;border-collapse: collapse; width: %;">SALDO</td>
+            <td colspan="1"   style="text-align: center; background-color:#;" ></td>
+            <td colspan="1"   style="text-align: center; background-color:#;" ></td>
             </tr>
 
 
@@ -618,13 +614,13 @@
              
           
             <tr>   
-            <td colspan="2"   style="text-align: center; background-color:#FFFFAF;" >DEPOSITAR A  CTA. BBVA: 001103480200394278   O     CCI: 01134800020039427802</td>
+            <td colspan="2"   style="text-align: center;" >DEPOSITAR A  CTA. BBVA: 001103480200394278   O     CCI: 01134800020039427802</td>
             </tr>
             <tr>   
             <td colspan="2"   style="text-align: center; background-color:#FFFFAF;" >DEPOSITAR A  CTA. BCP: 3059843761035   O     CCI: 00230500984376103519</td>
             </tr>
             <tr>   
-            <td colspan="2"   style="text-align: center; background-color:#FFFFAF;" >DEPOSITA A CTA. CAJA PIURA: 210014282113  o CCI: 8010112100148211387</td>
+            <td colspan="2"   style="text-align: center; background-color:#BDC3C7;" >DEPOSITA A CTA. CAJA PIURA: 210014282113  o CCI: 8010112100148211387</td>
             </tr>
         </thead>
         
