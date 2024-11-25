@@ -12,9 +12,9 @@
     <div class="header">
         <img src={{asset('img/cabecera.png')}} alt="Imagen Izquierda" class="header-image">
     </div>
-    <h1>CONTRATO DE COMPROMISO DE COMPRA VENTA FINANCIADO DEPARTAMENTOS LA RIBERA</h1>
+    <h1>CONTRATO DE COMPROMISO DE COMPRA VENTA CONTADO DEPARTAMENTOS LA RIBERA</h1>
 
-    <p>Conste el presente documento un CONTRATO PRIVADO DE COMPROMISO DE COMPRA VENTA FINANCIADO, que celebra de una parte:</p>
+    <p>Conste el presente documento un CONTRATO PRIVADO DE COMPROMISO DE COMPRA VENTA AL CONTADO, que celebra de una parte:</p>
 
     <div class="clause">
     <p style="margin-left: 5em;">
@@ -42,7 +42,7 @@
     <p>
     <b>EL CONSORCIO</b>, ha elaborado un proyecto de habilitación urbana con construcción simultanea de viviendas en adquisición de vivienda nueva del programa Techo Propio del fondo mi vivienda denominada <b>“CONDOMINIO LA RIBERA”</b>, que en adelante se denominará <b>EL PROYECTO</b>.
         </p>
-        Asimismo, la empresa <b>INMOBILIARIA &CONSTRUTORA ALI TORRES E.I.RL.</b>, identificada con <b>RUC N.º 20605585907</b>, inscrita en la <b>Partida Electrónica N°11328386 </b>del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr.  <b>ELVIS HENRY TORRES SALDAÑA</b>, identificado con <b>DNI N.º 42225869</b>, con poderes inscritos en el asiento N°.C00001, de la referida partida electrónica; Declara ser propietario del predio identificado lote independizado UC. 11179 Ubic.Rur.Valle Chancay – Lambayeque/sector San Agustín/ predio Pescoran, Área ha.1.89, distrito de Pimentel, provincia de Chiclayo, departamento de Lambayeque, cuyo dominio, área, linderos, medidas perimétricas y demás especificaciones corren más ampliamente descritas en la Partida Registral <b>N.º 11218354</b> del registro de propiedad inmueble de la oficina registral de Chiclayo - Zona Registral N.º II - Sede Chiclayo, predio que en lo sucesivo se le denominara <b>El INMUEBLE</b>, mismo que se encuentra sujeto a <b>EL PROYECTO</b>. Por otro lado, el CONSORCIO CUMBRES, debidamente representado por su Gerente General sr.  <b>JORGE LUIS YACILA SIANCAS</b>, identificado con <b>DNI N.º 16414190</b>, con poderes inscritos en el asiento A00001 de la referida partida electrónica, a quien en adelante se le denominará en adelante EL VENDEDOR.
+        Asimismo, la empresa <b>INMOBILIARIA &CONSTRUTORA ALI TORRES E.I.RL.</b>, identificada con <b>RUC N.º 20605585907</b>, inscrita en la <b>Partida Electrónica N°11328386 </b>del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr.  <b>ELVIS HENRY TORRES SALDAÑA</b>, identificado con <b>DNI N.º 42225869</b>, con poderes inscritos en el asiento N°.C00001, de la referida partida electrónica; Declara ser propietario del predio identificado lote independizado UC. 11179 Ubic.Rur.Valle Chancay – Lambayeque/sector San Agustín/ predio Pescoran, Área ha.1.89, distrito de Pimentel, provincia de Chiclayo, departamento de Lambayeque, cuyo dominio, área, linderos, medidas perimétricas y demás especificaciones corren más ampliamente descritas en la Partida Registral <b>N.º 02253033 </b> del registro de propiedad inmueble de la oficina registral de Chiclayo - Zona Registral N.º II - Sede Chiclayo, predio que en lo sucesivo se le denominara <b>El INMUEBLE</b>, mismo que se encuentra sujeto a <b>EL PROYECTO</b>. Por otro lado, el CONSORCIO CUMBRES, debidamente representado por su Gerente General sr.  <b>JORGE LUIS YACILA SIANCAS</b>, identificado con <b>DNI N.º 16414190</b>, con poderes inscritos en el asiento A00001 de la referida partida electrónica, a quien en adelante se le denominará en adelante EL VENDEDOR.
         </p>
   </div>
 
@@ -77,15 +77,14 @@
     <div class="clause">
     <p><b><u>QUINTO: PRECIO Y FORMA DE PAGO:</u></b></p>
    
-        <p style="background-color:#FFFF00;">El precio del bien objeto de la prestación a cargo de <b>EL VENDEDOR</b> asciende a la suma de <b>S/ 52,000.00 (Cincuenta y Dos Mil Soles)</b>, dicho precio se encuentra ya con el descuento del BFH que será cancelado por EL COMPRADOR mediante depósito en la cuenta del <b>CONSORCIO</b> en la forma establecida conforme al Cronograma de Pago descrito en el <b>ANEXO 1</b>.</p>
-        <p style="background-color:#FFFF00;">Su <b>inicial abonada es de s/.  3,000.00 (Tres Mil Soles)</b> y el <b>saldo de S/ 49,000.00 (Cuarenta y Nueve Mil Soles)</b> será financiado según cronograma de pagos ANEXO 1.</p>
-
+        <p style="background-color:#FFFF00;">El precio del bien objeto de la prestación a cargo de <b>EL VENDEDOR</b> asciende a la suma de <b>S/ 52,000.00 (Cincuenta y Dos Mil Soles)</b>, dicho precio se encuentra ya con el descuento del BFH que será cancelado por <b>EL COMPRADOR</b> con <b>el saldo de S/35,000.00</b> (Treinta y Cinco Mil Soles), mediante depósito en la cuenta del CONSORCIO.</p>
+        <p style="background-color:#FFFF00;">EL COMPRADOR cancela de manera al contado al momento de llevarse a cabo la compra; mediante depósito en la cuenta del CONSORCIO siendo el N.º 3056967606064. Que, a su vez tendrá tenerse una copia de la operación realizada para evitar problemas a posterior.</p>
     </div>
 
     <div class="clause">
     <p><b><u>SEXTO: OBLIGACIONES DE LAS PARTES:</u></b></p>
    
-        <p><b>EL VENDEDOR</b> se obliga a entregar el bien objeto de la prestación a su cargo en la fecha pactada en la cláusula décimo quinto y tener todas las cuotas canceladas descritas en el <b>ANEXO 02</b>, acto que se verificará con el acta de entrega del bien inmueble, procurándole a <b>EL COMPRADOR</b> tomar efectiva posesión de dicho bien. <b>(ANEXO 02)</b> </p>
+        <p><b>EL VENDEDOR</b> se obliga a entregar el bien objeto de la prestación a su cargo en la fecha pactada en la cláusula décimo segundo descritas en el <b>ANEXO 02</b>, acto que se verificará con el acta de entrega del bien inmueble, procurándole a <b>EL COMPRADOR</b> tomar efectiva posesión de dicho bien. <b>(ANEXO 02)</b> </p>
 
         <p>Del mismo modo, <b>EL COMPRADOR</b> se obliga a pagar el precio convenido en el momento y forma pactados en la cláusula cuarta de este documento.</p>
 
@@ -98,7 +97,7 @@
     <div class="clause">
     <p><b><u>SEPTIMO: OBLIGACIONES DE SANEAMIENTO:</u></b></p>
    
-        <p><b>EL VENDEDOR</b> declara que el bien objeto de la prestación a su cargo se encuentra, al momento de celebrarse este contrato, libre de toda carga, gravamen, derecho real de garantía, medida judicial o extrajudicial y en general de todo acto o circunstancia que impida, prive o limite la libre disponibilidad, y/o el derecho de propiedad, posesión o uso del bien. No obstante, <b>EL VENDEDOR</b> se obliga al saneamiento por evicción, que comprenderá todos los conceptos previstos en el artículo 1495 del Código Civil.</p>
+        <p><b>EL VENDEDOR</b> declara que el bien objeto de la prestación a su cargo se encuentra, al momento de celebrarse este contrato, libre de toda carga, gravamen, derecho real de garantía, medida judicial o extrajudicial y en general de todo acto o circunstancia que impida, prive o limite la libre disponibilidad, y/o el derecho de propiedad, posesión o uso del bien. No obstante, <b>EL VENDEDOR</b> se obliga al saneamiento por evicción, que comprenderá todos los conceptos previstos en el art. 1495 del Código Civil.</p>
 
         <p>No obstante, la declaración de EL VENDEDOR, en la cláusula segunda de este documento, aquel se obliga al saneamiento por vicios ocultos y por hecho propio existentes al momento de la transferencia.</p>
 
@@ -116,56 +115,36 @@
     </div>
 
     <div class="clause">
-    <p><b><u>NOVENA: DE LA RESOLUCIÓN DEL CONTRATO:</u></b></p>
-   
-        <p>Las partes acuerdan que, en caso de incumplimiento por parte <b>EL COMPRADOR</b> de no cancelar hasta la quinta cuota, respecto de su obligación de cancelar el precio pactado sobre el inmueble descrito en la cláusula Segunda, en la forma y fecha convenidas, el contrato quedará resuelto y <b>EL VENDEDOR</b>, conservará de modo definitivo la suma de dinero entregado por parte de <b>EL COMPRADOR</b> con anterioridad a la fecha de resolución de contrato. </p>
-        <p>Por otra parte, en caso <b>EL COMPRADOR</b> desista de la compra, la devolución será el 50% del monto de dinero aportado a partir de la sexta cuota en adelante. En ambos escenarios, sin ser sujetos a <b>RECLAMO</b>.</p>
-        <p>Si el incumplimiento proviene del prominente, <b>EL VENDEDOR</b>, la otra parte podrá solicitar su devolución del monto abonado.</p>
-
-    </div>
-
-    <div class="clause">
-    <p><b><u>DÉCIMA: DE LA GARANTÍA DE LA COMPRAVENTA:</u></b></p>
-   
-        <p><b>EL VENDEDOR</b> se reserva la propiedad del inmueble descrito en la Cláusula Segunda hasta que <b>EL COMPRADOR</b> hayan pagado en su totalidad las cuotas establecidas como precio de venta, de conformidad con el <b>artículo 1583º del Código Civil</b>.</p>
-
-    </div>
-
-    <div class="clause">
-    <p><b><u>UNDÉCIMA: COMPETENCIA TERRITORIAL:</u></b></p>
+    <p><b><u>NOVENA: COMPETENCIA TERRITORIAL:</u></b></p>
    
         <p>Queda expresamente establecido que en el improbable caso de que surja cualquier controversia o discrepancia en relación con la interpretación, cumplimiento y/o ejecución de lo pactado en este documento, los suscribientes no pudieran solucionar amigablemente en relación con la interpretación, cumplimiento y/o ejecución de lo pactado en el presente documento, ambas partes se someten de común acuerdo a la jurisdicción, competencia y decisión territorial de los Juzgados y Salas Especializadas en lo civil del Departamento de Lambayeque.</p>
 
     </div>
-    
+
     <div class="clause">
-    <p><b><u>DUODÉCIMO: DOMICILIO</u></b></p>
+    <p><b><u>DÉCIMA: DOMICILIO</u></b></p>
    
         <p>Para la validez de todas las comunicaciones y notificaciones a las partes, con motivo de la ejecución de este contrato, ambas señalan como sus respectivos domicilios los indicados en la introducción de este documento.</p>
-
-
         <p>El cambio de domicilio de cualquiera de las partes surtirá efecto desde la fecha de comunicación de dicho cambio a la otra parte, por vía notarial.</p>
-
-
+        
 
     </div>
 
     <div class="clause">
-    <p><b><u>DECIMO TERCERO: CONOCIMIENTO DE LAS NORMAS DEL BFH</u></b></p>
+    <p><b><u>UNDÉCIMA: CONOCIMIENTO DE LAS NORMAS DEL BFH</u></b></p>
    
         <p>Las partes declaran conocer las normas que reglamentan el Bono Familiar Habitacional (BFH) obligándose al cumplimiento de las mismas, entre las que están las referidas a las causales de pérdida, devolución y renuncia al BFH, así como la comprobación de falsedad en la información de <b>EL COMPRADOR</b> como participante del BFH y las normas sobre la disponibilidad de la vivienda adquirida con el referido subsidio,</p>
-
-
         <p>Asimismo, las partes declaran conocer lo señalado en las normas que regulan en BFH respecto a que los asientos de inscripción de transferencia de propiedad de viviendas adquiridas con el financiamiento del BFH consignarán adicionalmente en el resumen del acto, lo siguiente.</p>
-
         <p style="margin-left: 5em;">A)	Que la adquisición de la vivienda se ha financiado con el BFH.</p>
-        <p style="margin-left: 5em;">B)	Que, para la inscripción de una transferencia de la propiedad de la vivienda a un tercero, que hubiese efectuado <b>EL COMPRADOR </b>dentro del plazo de restricción establecido por las normas que regulan en BFH será necesaria la Constancia Favorable emitida por el<b> Fondo MIVIVIENDA S.A.</b> por lo que sin esta constancia no podrá inscribirse dicha transferencia de propiedad. En este caso <b>EL COMPRADOR </b>procederá a la devolución inmediata del importe del BFH y de los intereses generados según corresponda, al <b>Fondo MIVIVIENDA S.A.</b></p>
-        <p>Por tanto, en cumplimiento de la norma antes referida, por este documento se solicita al Registrador cumpla con inscribir lo señalado en los literales A y B que anteceden.</p>
+        <p style="margin-left: 5em;">B)	Que, para la inscripción de una transferencia de la propiedad de la vivienda a un tercero, que hubiese efectuado <b>EL COMPRADOR</b> dentro del plazo de restricción establecido por las normas que regulan en BFH será necesaria la Constancia Favorable emitida por el <b>Fondo MIVIVIENDA S.A.</b> por lo que sin esta constancia no podrá inscribirse dicha transferencia de propiedad. En este caso <b>EL COMPRADOR</b> procederá a la devolución inmediata del importe del BFH y de los intereses generados según corresponda, al <b>Fondo MIVIVIENDA S.A.</b></p>
+
+        <p><p>Por tanto, en cumplimiento de la norma antes referida, por este documento se solicita al Registrador cumpla con inscribir lo señalado en los literales A y B que anteceden.</p></p>
 
     </div>
-
+    
+    
     <div class="clause">
-    <p><b><u>DECIMO CUARTO: DE LA RESOLUCIÓN DEL CONTRATO:</u></b></p>
+    <p><b><u>DECIMO SEGUNDO: DE LA RESOLUCIÓN DEL CONTRATO:</u></b></p>
    
         <p>Ambas partes declaran que serán causales de resolución del presente contrato, de acuerdo a lo estipulado en el Art 1430° del Código Civil, las siguientes:</p>
 
@@ -174,11 +153,12 @@
         <p style="margin-left: 5em;">C)	Si en el plazo de <b>treinta y seis (36) meses </b>contados desde la firma del presente contrato, <b>EL COMPRADOR</b> no llegase a ser beneficiario del BFH, dejando ambas partes claramente establecidas que esta causal también se verificará con la primera denegación de la asignación del BFH a<b> EL COMPRADOR</b> aun así no se hubiese terminado de cumplir el plazo de <b>treinta y seis (36) meses.</b></p>
         <p style="margin-left: 5em;">D)	Si <b>EL COMPRADOR</b> no cumple con su obligación de cancelar el precio pactado sobre el inmueble descrito en la Cláusula Quinta, en la forma y fecha convenidas, el contrato quedará resuelto y <b>EL VENDEDOR</b>, conservará de modo definitivo la suma de dinero entregado por parte del <b>EL COMPRADOR</b> con anterioridad a la fecha de resolución de contrato.</p>
         <p style="margin-left: 5em;">E)	Si <b>EL VENDEDOR</b>, incumpliera alguna de sus obligaciones mencionadas en el presente contrato la otra parte podrá solicitar la devolución total de las sumas entregadas.</p>
-        <p>La resolución de pleno derecho por las causales antes señaladas se producirá, sin necesidad de declaración judicial o extrajudicial, cuando alguna de las partes del presente contrato de compra venta comunique por conducto notarial a la otra parte que quiere valerse de la cláusula resolutoria.</p>
+
+        <p >La resolución de pleno derecho por las causales antes señaladas se producirá, sin necesidad de declaración judicial o extrajudicial, cuando alguna de las partes del presente contrato de compra venta comunique por conducto notarial a la otra parte que quiere valerse de la cláusula resolutoria.</p>
     </div>
 
     <div class="clause">
-    <p><b><u>DECIMO QUINTO: OBLIGACIONES DE LAS PARTES:</u></b></p>
+    <p><b><u>DECIMO TERCERO: OBLIGACIONES DE LAS PARTES:</u></b></p>
    
         <p><b>EL VENDEDOR</b> se obliga frente a <b>EL COMPRADOR</b> a entregar el inmueble materia de la presente compra venta en condiciones de habitabilidad y según la lista de acabados que figura en las Especificaciones Técnicas.</p>
 
@@ -199,9 +179,9 @@
     </div>
 
     <div class="clause">
-    <p><b><u>DÉCIMO SEXTO: APLICACIÓN SUPLETORIA DE LA LEY:</u></b></p>
+    <p><b><u>DÉCIMO CUARTO: APLICACIÓN SUPLETORIA DE LA LEY:</u></b></p>
    
-        <p>En todo lo no previsto por las partes en el presente contrato, ambas se someten a lo establecido por las normas del Código Civil y demás del sistema jurídico que resulten aplicables. Finalmente, leídas todas y cada una de las cláusulas antes estipuladas, <b>EL VENDEDOR Y EL COMPRADOR</b> declararon estar conformes con su contenido, y para mayor validez del presente documento procedieron a firmar y estampar sus huellas digitales, en señal de conformidad.</p>
+        <p>En todo lo no previsto por las partes en el presente contrato, ambas se someten a lo establecido por las normas del Código Civil y demás del sistema jurídico que resulten aplicables. Finalmente, leídas todas y cada una de las cláusulas antes estipuladas, <b>EL VENDEDOR Y EL COMPRADOR</b>  declararon estar conformes con su contenido, y para mayor validez del presente documento procedieron a firmar y estampar sus huellas digitales, en señal de conformidad.</p>
 
 
 
