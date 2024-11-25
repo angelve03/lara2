@@ -448,7 +448,7 @@
         <p style="margin: 0;">
         12. El cliente declara brindar la información verídica para la postulación del bono familiar habitacional (BFH) a la firma del presente contrato.   </p>    
          <p style="margin: 0;">
-        13. El cliente declara tener pleno conocimiento de la documentación del CONDOMINIO LA RIBERA y su promotor al momento de la firma del presente contrato.</p>
+        13. El cliente declara tener pleno conocimiento de la documentación del CONDOMINIO LA RIBERA II y su promotor al momento de la firma del presente contrato.</p>
         <p style="margin: 0;">
         14. Para la validez de este contrato, el mismo se debe encontrar debidamente suscrito por el cliente con firma y huella.    </p>   
          <p style="margin: 0;"><B>DEL DOMICILIO, CORREO ELECTRÓNICO Y WHATSAPP</B></p>
