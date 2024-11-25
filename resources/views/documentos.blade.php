@@ -10,62 +10,68 @@
 <body>
 
 <div class="container" style="margin-left: 1em;">
-<H1 >LA RIBERA</H1>
+<H1 >LA RIBERA I</H1>
 
-    <p >CONTRATO - CONDOMINIO LA RIBERA ESTACIONAMIENTO</p>
-    <ul >
-    <li><a href="{{ url('/documento7') }}">CONTRATO DE ESTACIONAMIENTO</a></li>
+        <ul >
+            <li><a href="{{ url('/documento1') }}">FICHA CONTADO</a></li>
+            <li><a href="{{ url('/documento2') }}">FICHA FINANCIADO</a></li>
+            <li><a href="{{ url('/documento3') }}">CONTRATO CONTADO</a></li>
+            <li><a href="{{ url('/documento4') }}">CONTRATO FINANCIADO</a></li>
+        </ul>
 
-
-            </ul>
-            <p >FICHA DE SEPARACION - CONDOMINIO LA RIVERA LOTES</p>
-    <ul >
+        <p >ESTACIONAMIENTO</p>
+        <ul >
+        <li><a href="{{ url('/documento5') }}">CONTRATO</a></li>
+        </ul>
+            
+        <p >DEPARTAMENTO</p>
+        <ul >
             <li><a href="{{ url('/documento6') }}">FICHA CONTADO</a></li>
-            <li><a href="{{ url('/documento10') }}">FICHA FINANCIADO</a></li>
-
-            </ul>
-            <p >CONTRATOS - CONDOMINIO LA RIVERA LOTES</p>
-    <ul >
+            <li><a href="{{ url('/documento7') }}">FICHA FINANCIADO</a></li>
             <li><a href="{{ url('/documento8') }}">CONTRATO CONTADO</a></li>
             <li><a href="{{ url('/documento9') }}">CONTRATO FINANCIADO</a></li>
-
-            </ul>
+            <li><a href="{{ url('/documento10') }}">CRONOGRAMA</a></li>
+        </ul>
             
-            <p >FICHA DE SEPARACION - CONDOMINIO LA RIVERA DEPARTAMENTOS</p>
-    <ul >
-            <li><a href="{{ url('/documento11') }}">FICHA CONTADO</a></li>
-            <li><a href="{{ url('/documento12') }}">FICHA FINANCIADO</a></li>
-
-            </ul>
-            <p >CONTRATOS - CONDOMINIO LA RIVERA  DEPARTAMENTOS</p>
-    <ul >
-            <li><a href="{{ url('/documento13') }}">CONTRATO CONTADO</a></li>
-            <li><a href="{{ url('/documento14') }}">CONTRATO FINANCIADO</a></li>
-            <li><a href="{{ url('/documento16') }}">CRONOGRAMA</a></li>
-
-
-            </ul>
 </div>
 
 <div class="container" style="margin-left: 1em;">
 <H1 >LA VIÑA</H1>
+ 
+        <ul >
+            <li><a href="{{ url('/documento11') }}">FICHA CONTADO - FINANCIADO</a></li>
+            <li><a href="{{ url('/documento12') }}">CONTRATO CONTADO</a></li>
+            <li><a href="{{ url('/documento13') }}">CONTRATO FINANCIADO</a></li>
+            <li><a href="{{ url('/documento14') }}">CRONOGRAMA</a></li>
 
-            <p >FICHA DE SEPARACION - CONDOMINIO LA VIÑA 1ERA ETAPA</p>
-    <ul >
-            <li><a href="{{ url('/documento15') }}">FICHA CONTADO - FINANCIADO</a></li>
+        </ul>
+            
+</div>
 
-            </ul>
-            <p >CONTRATOS - CONDOMINIO LA VIÑA 1ERA ETAPA</p>
-    <ul >
+<div class="container" style="margin-left: 1em;">
+<H1 >LA RIBERA II</H1>
+
+        <ul >
+            <li><a href="{{ url('/documento15') }}">FICHA CONTADO</a></li>
+            <li><a href="{{ url('/documento16') }}">FICHA FINANCIADO</a></li>
             <li><a href="{{ url('/documento17') }}">CONTRATO CONTADO</a></li>
             <li><a href="{{ url('/documento18') }}">CONTRATO FINANCIADO</a></li>
-
-            </ul>
-            <p >CRONOGRAMA - CONDOMINIO LA VIÑA 1ERA ETAPA</p>
-    <ul >
             <li><a href="{{ url('/documento19') }}">CRONOGRAMA</a></li>
+        </ul>
 
-            </ul>
+        <p >ESTACIONAMIENTO</p>
+        <ul >
+        <li><a href="{{ url('#') }}">CONTRATO</a></li>
+        </ul>
+            
+        <p >DEPARTAMENTO </p>
+        <ul >
+            <li><a href="{{ url('#') }}">FICHA CONTADO</a></li>
+            <li><a href="{{ url('#') }}">FICHA FINANCIADO</a></li>
+            <li><a href="{{ url('#') }}">CONTRATO CONTADO</a></li>
+            <li><a href="{{ url('#') }}">CONTRATO FINANCIADO</a></li>
+            <li><a href="{{ url('#') }}">CRONOGRAMA</a></li>
+        </ul>
             
 </div>
 
