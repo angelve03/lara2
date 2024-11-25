@@ -401,11 +401,11 @@
         <p style="margin: 0;">
         1. Todos los trámites relacionados a este documento y al contrato que pudiera firmarse en base al mismo, son personales y deberán efectuarse únicamente en las oficinas de la empresa.</p>
         <p style="margin: 0;">
-        2. Este contrato es válido para la separación de una unidad de estacionamiento, identificada plenamente, como consta en la parte superior del presente documento, habiendo cancelado la cuota de separación, comprometiéndose a completar la inicial en el plazo señalado a continuación.</p>
+        2. Este contrato es válido para la separación del departamento, identificada plenamente, como consta en la parte superior del presente documento, habiendo cancelado la cuota de separación, comprometiéndose a completar la inicial en el plazo señalado a continuación.</p>
         <p style="margin: 0;">
-        3. La fecha máxima para completar el pago de la inicial por la separación del lote, será de 07 días calendarios, computados desde la firma del presente documento y/o depósito del monto por concepto de separación.</p>
+        3. La fecha máxima para completar el pago de la inicial por la separación del departamento, será de 07 días calendarios, computados desde la firma del presente documento y/o depósito del monto por concepto de separación.</p>
         <p style="margin: 0;">
-        4. El precio de venta del lote materia de venta será de S/. 32,000.00 TREINTA Y DOS MIL 00/100 NUEVOS SOLES más el bono familiar habitacional vigente en el año de su otorgamiento, respecto del cual se deducirá la inicial. </p>
+        4. El precio de venta del departamento materia de venta será de S/. 32,000.00 TREINTA Y DOS MIL 00/100 NUEVOS SOLES más el bono familiar habitacional vigente en el año de su otorgamiento, respecto del cual se deducirá la inicial cancelada mientras que el saldo deudor será cancelado de acuerdo al anexo denominado cronograma de pago. </p>
         <p style="margin: 0;">
         5. Cabe señalar que en el supuesto de la pronta culminación de obras (antes del plazo estipulado en el cronograma de pagos), ambas partes podrían acordar el acortamiento del plazo para el pago del saldo pendiente, para dar cumplimiento a la cláusula 10.</p>
         <p style="margin: 0;"><B>RESOLUCIÓN:</B></p>
@@ -419,6 +419,13 @@
         <p style="margin: 0;">
         7. Si la resolución se diera por incumplimiento del pago de la inicial, se le aplicará al cliente una penalidad del 100% del monto abonado hasta la fecha de resolución. Si la resolución se diera por el no pago de dos cuotas consecutivas del saldo deudor del precio de venta, se le aplicará al cliente una penalidad del 100% del monto abonado hasta la fecha de resolución. En el caso que el cliente incumpla con cancelar de manera puntual según su cronograma de pagos, se generará automáticamente la penalidad de pago ascendente a la suma de S/.25 (VEINTICINCO y 00/100 soles) por cada día de retraso a partir del mes siguiente.
         </p>
+       
+        <p style="margin: 0;">
+        8. El cliente a la firma del presente contrato manifiesta tener pleno conocimiento de los requisitos que debe cumplir para calificar al bono familiar habitacional, los cuales se detallan a continuación:
+        </p>
+        <p style="margin: 0; padding: 0;">
+        &emsp;&emsp;&emsp;&emsp;&emsp;Que el cliente mantenga su condición de elegible o grupo familiar elegible para el acceso o la asignación del BFH, para lo cual deberá acreditar su condición de elegibilidad vigente expedida a su favor por el fondo mi vivienda, señalando que conoce los requisitos de elegibilidad, los cuales son:        
+        </p>
         <p style="margin: 0; padding: 0;">
         &emsp;&emsp;&emsp;&emsp;&emsp;A) Tener carga familiar (no tíos, ni sobrinos) y si participa con hijos o hermanos que sean menores a 25 años.        
         </p>
@@ -428,10 +435,9 @@
         &emsp;&emsp;&emsp;&emsp;&emsp;C) No tener propiedades urbanas inscritas a su nombre.</p><p style="margin: 0; padding: 0;">
         &emsp;&emsp;&emsp;&emsp;&emsp;D) No haber recibido apoyo del estado (techo propio, crédito mi vivienda, banco de materiales, enlace, otros)</p>
         <p style="margin: 0;">
-        8. En caso el cliente no tenga la condición de elegible por el fondo mi vivienda, la empresa lo facultará a poder ceder su posición contractual a otra persona o grupo familiar que sí cumpla con esa condición, en el plazo máximo de 30 días, de lo contrario vencido dicho plazo, el presente contrato quedará resuelto aplicándole una penalidad del 20% del valor abonado hasta la fecha de resolución. Que el cliente complete el ahorro requerido por el fondo mi vivienda, para lo cual deberá acreditar haber efectuado previamente a favor del vendedor, el depósito por el importe correspondiente.
-        </p>
+        En caso el cliente no tenga la condición de elegible por el fondo mi vivienda, la empresa lo facultará a poder ceder su posición contractual a otra persona o grupo familiar que sí cumpla con esa condición, en el plazo máximo de 30 días, de lo contrario vencido dicho plazo, el presente contrato quedará resuelto aplicándole una penalidad del 20% del valor abonado hasta la fecha de resolución. Que el cliente complete el ahorro requerido por el fondo mi vivienda, para lo cual deberá acreditar haber efectuado previamente a favor del vendedor, el depósito por el importe correspondiente.</p>
         <p style="margin: 0;">
-        9.  El cliente manifiesta su intención de suscribir con la empresa el contrato de compra-venta, respecto de la unidad de vivienda especificada en el presente documento, la misma que tendrá la condición de bien futuro, hasta el trámite de recepción de obras.</p>
+        9. El cliente manifiesta su intención de suscribir con la empresa el contrato de compra-venta, respecto de la unidad de vivienda especificada en el presente documento, la misma que tendrá la condición de bien futuro, hasta el trámite de recepción de obras.</p>
         <p style="margin: 0;">
         10. Se informa al cliente que las solucitudes presentadas que no se encuentren contempladas en el presente convenio generarán los siguientes costos adicionales: cambio de ubicación tendrá un costo de s/150.00 traspaso de dinero un costo de s/100.00; cambio de fecha y modalidad de pago, a partir de la segunda presentación de solicitud, tendrá un costo de s/100.00; y la cesión de derecho, a partir de su segunda presentación, generará un costo de s/150.00 estos montos deberán ser asumidor y cancelados por el cliente previamente a la ejecición de cada solicitud.</p>
          <p style="margin: 0;"><B>RESERVA DE PROPIEDAD</B></p>
@@ -440,7 +446,7 @@
         <p style="margin: 0;">
         12. El cliente declara brindar la información verídica para la postulación del bono familiar habitacional (BFH) a la firma del presente contrato.   </p>    
          <p style="margin: 0;">
-        13. El cliente declara tener pleno conocimiento de la documentación del <B>CONDOMINIO LA RIBERA</B> y su promotor al momento de la firma del presente contrato.</p>
+        13. El cliente declara tener pleno conocimiento de la documentación del CONDOMINIO LA RIBERA y su promotor al momento de la firma del presente contrato.</p>
         <p style="margin: 0;">
         14. Para la validez de este contrato, el mismo se debe encontrar debidamente suscrito por el cliente con firma y huella.    </p>   
          <p style="margin: 0;"><B>DEL DOMICILIO, CORREO ELECTRÓNICO Y WHATSAPP</B></p>
