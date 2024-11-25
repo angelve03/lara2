@@ -166,7 +166,7 @@
 </div>
 
 
-
+</br>
 <div class="table-container">        
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%; ">
         <thead>
@@ -189,6 +189,7 @@
         </tbody>
     </table>
 </div>
+</br>
 
 
 <div class="table-container">        
@@ -199,43 +200,40 @@
             <tr>
                 <th colspan="2" style="text-align: center; background-color: #E2EFDA; ">REALIZO EL CLIENTE</th>
                 <th colspan="2" style="text-align: center; background-color: #E2EFDA; ">REALIZO EL ASESOR</th>
-
-            </tr>
-            <td>SEPARACIÓN</td>
-            <td style="text-align: center;">S/.79805.00</td>
-            <td>DESCUENTO PROMOCIONAL</td>
-            <td style="text-align: center;  ">S/.79805.00</td>
+                </tr>
+    
+            
             
         </thead>                
-                
+        </tr>
+        <tr>
+    <td rowspan="2" >SEPARACIÓN</td>
+    <td rowspan="2" style="text-align: center;">S/.79805.00</td>
+    <td>DESCUENTO PROMOCIONAL</td>
+    <td style="text-align: center;  ">S/.79805.00</td>
+    </tr>
+    
             <tr>
-                <td >INICIAL</td>
-                <td style="text-align: center;  ">S/.500.00</td>
-                <td>DESCUENTO GERENCIAL</td>
+                <td>OTROS DESCUENTO </td>
                 <td style="text-align: center;">S/.500.00</td>
+            </tr>
+            <tr>
+                <th colspan="4" style="text-align: center;">PRECIO A PAGAR (BONO HABITACIONAL + PRECIO DE LISTA)</th>
+            </tr>
+            <tr>
+                <th colspan="4" style="text-align: center; font-weight: normal;">S/100.998.00</th>
+            </tr>
+            <tr>
+                <th colspan="4" style="text-align: center;">PRECIO A PAGAR DESCONTANDO EL BFH</th>
+            </tr>
+            <tr>
+                <th colspan="4" style="text-align: center; font-weight: normal;">S/100.998.00</th>
+            </tr>
             
-            </tr>
-            <tr>
-                <th colspan="4" style="text-align: center;">PRECIO TOTAL (BONO HABITACIONAL + PRECIO DE LISTA)</th>
-            </tr>
-            <tr>
-                <th colspan="4" style="text-align: center; font-weight: normal;">S/100.998.00</th>
-            </tr>
-            <tr>
-                <th colspan="4" style="text-align: center;">PRECIO A PAGAR ( PRECIO TOTAL - DESCUENTOS)</th>
-            </tr>
-            <tr>
-                <th colspan="4" style="text-align: center; font-weight: normal;">S/100.998.00</th>
-            </tr>
-            <tr>
-                <th colspan="4" style="text-align: center; ">PRECIO A PAGAR DESCONTANDO EL BFH</th>
-            </tr>
-            <tr>
-                <th colspan="4" style="text-align: center; font-weight: normal;">S/56.193.00</th>
-            </tr>
         </tbody>
     </table>
 </div>
+</br>
 
 <div class="table-container">        
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">

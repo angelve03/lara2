@@ -165,6 +165,7 @@
     </table>
 </div>
 
+</br>
 
 
 <div class="table-container">        
@@ -197,6 +198,7 @@
     </table>
 </div>
 
+</br>
 
 <div class="table-container">        
     <table class="centered-table" border="1" style="border-collapse: collapse; width: 100%;">
