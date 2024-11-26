@@ -5,14 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contrato Privado de Promesa de Venta</title>
     <link rel="stylesheet" href={{asset('css/consorcio.css')}}>
-    
+    <style>
+    .header-image {
+                width: 100px;
+                height: auto;
+            }
+            </style>
 </head>
 <body>
 
-    <div class="header">
-        <img src={{asset('img/cabecera.png')}} alt="Imagen Izquierda" class="header-image">
+<div class="header">
+        <img src={{asset('img/cumbre.png')}} alt="Imagen Izquierda" class="header-image">
+        <h1>CONTRATO DE COMPROMISO DE COMPRA VENTA AL CONTADO DEPARTAMENTOS CONDOMINIO LA RIBERA I</h1>
+        <img src={{asset('img/ribera.jpg')}} alt="Imagen Derecha" class="header-image">
+
     </div>
-    <h1>CONTRATO DE COMPROMISO DE COMPRA VENTA CONTADO DEPARTAMENTOS LA RIBERA</h1>
 
     <p>Conste el presente documento un CONTRATO PRIVADO DE COMPROMISO DE COMPRA VENTA AL CONTADO, que celebra de una parte:</p>
 
