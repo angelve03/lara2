@@ -16,7 +16,7 @@
 
 <div class="header">
         <img src={{asset('img/cum.png')}} alt="Imagen Izquierda" class="header-image">
-        <h1>CONTRATO DE COMPROMISO DE COMPRA VENTA CONTADO DEPARTAMENTOS LA RIBERA</h1>
+        <h1>CONTRATO DE COMPROMISO DE COMPRA VENTA FINANCIADO CONDOMINIO LA RIBERA II</h1>
         <img src={{asset('img/r2.png')}} alt="Imagen Derecha" class="header-image">
 
     </div>
@@ -24,11 +24,11 @@
 
     <div class="clause">
     <p style="margin-left: 5em;">
-    A) De una parte, declara el <b>CONSORCIO CUMBRES</b>, con R.U.C. N.º 20612931161, con domicilio en calle Torres Paz 708, distrito de Chiclayo, provincia de Chiclayo y departamento de Lambayeque, debidamente representada por su Gerente sr. <b>JORGE LUIS YACILA SIANCAS</b>, identificado con <b>DNI N°16414190</b>, según facultades otorgadas mediante el Contrato de Consorcio, suscrito ante el notario público a quien en lo sucesivo se denominará <b>EL CONSORCIO</b>, y;
+    A)	De una parte, declara el CONSORCIO CUMBRES, con R.U.C. N° 20612931161, con domicilio en calle Torres Paz 708, distrito de Chiclayo, provincia de Chiclayo y departamento de Lambayeque, debidamente representada por su Gerente JORGE LUIS YACILA SIANCAS, identificado con DNI N°16414190, según facultades otorgadas mediante el Contrato de Consorcio, suscrito ante el notario público a quien en lo sucesivo se denominará EL CONSORCIO, y;
 </p>
 
     <p style="margin-left: 5em; background-color:#FFFF00;">
-        B)	De otra <b>JOSE LUIS SALAZAR PEREZ</b>, identificado con <b>DNI N°43894950</b>, de estado civil SOLTERO, con domicilio en MZ H LT 10 - VILLA HERMOSA PP. JJ SANTA LUCIA Distrito <b>JOSE LEONARDO ORTIZ</b>, Provincia <b>CHICLAYO</b> y Departamento de <b>LAMBAYEQUE</b>, con número de celular <b>916 176 519</b>, con correo electrónico, luchosalazar@hotmail.com a quien en adelante se le denominará <b>EL COMPRADOR</b>; </p>
+    B)	De otra <b>JOSE LUIS SALAZAR PEREZ</b>, identificado con <b>DNI N°43894950</b>, de estado civil SOLTERO, con domicilio en MZ H LT 10 - VILLA HERMOSA PP. JJ SANTA LUCIA Distrito <b>JOSE LEONARDO ORTIZ</b>, Provincia <b>CHICLAYO</b> y Departamento de <b>LAMBAYEQUE</b>, con número de celular <b>916 176 519</b>, con correo electrónico, luchosalazar@hotmail.com a quien en adelante se le denominará <b>EL COMPRADOR</b>; </p>
     </div>
     <p>Quienes declaran estar en uso de sus plenos derechos suscribiendo los términos y condiciones de las cláusulas siguientes:</p>
     
@@ -36,7 +36,7 @@
     <div class="clause">
         <p><b><u>PRIMERA: ANTECEDENTES DEL CONSORCIO:</u></b></p>
         <p>
-        <b>EL CONSORCIO </b>está compuesto por tres personas jurídicas que persiguen similares objetivos,<b> INMOBILIARIA &CONSTRUTORA ALI TORRES E.I.R.L.</b>, identificada con RUC N°20605585907, inscrita en la Partida Electrónica N.º 11328386 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>ELVIS HENRY TORRES SALDAÑA</b>, identificado con <b>DNI N.º 42225869</b>, con poderes inscritos en el asiento N°.C00001, de la referida partida electrónica y <b>QUBO GRUPO DESARROLLADOR S.A.C.</b>, con <b>RUC N.º 20609441136</b>, inscrita en la <b>Partida Electrónica N.º 11395373</b> del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>JORGE LUIS YACILA SIANCAS</b>, identificado con <b>DNI N.º 16414190</b>, con poderes inscritos en el asiento A00001 de la referida partida electrónica; <b>SERVICIO A LA CONSTRUCCION MINERIA Y PETROLEO SRL</b>., identificada con <b>RUC N.º 20606684348</b>, inscrita en la partida Electrónica <b>N°11343668</b> del registro de personas jurídicas de la oficina Registral de Chiclayo representada por su gerente general sr. <b>CARRASCO OSORIO ROBERTO CARLOS</b> , identificado con <b>DNI N°.71099586 </b>,  con poderes inscritos en el asiento B00001 de la referida partida electrónica quienes unidas mediante el contrato suscrito ante el notario público, respectivamente, constituyen el “CONSORCIO CUMBRES”; siendo la última de estas, el encargado de asumir la gerencia comercial del consorcio.       
+        <b>EL CONSORCIO </b>está compuesto por tres personas jurídicas que persiguen similares objetivos,<b> INMOBILIARIA & CONSTRUTORA ALITORRES E.I.R.L.</b>, identificada con RUC N°20605585907, inscrita en la Partida Electrónica N.º 11328386 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>ELVIS HENRY TORRES SALDAÑA</b>, identificado con <b>DNI N.º 42225869</b>, con poderes inscritos en el asiento N°.C00001, de la referida partida electrónica y <b>QUBO GRUPO DESARROLLADOR S.A.C.</b>, con <b>RUC N.º 20609441136</b>, inscrita en la <b>Partida Electrónica N.º 11395373</b> del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>JORGE LUIS YACILA SIANCAS</b>, identificado con <b>DNI N.º 16414190</b>, con poderes inscritos en el asiento A00001 de la referida partida electrónica; <b>SERVICIO A LA CONSTRUCCION MINERIA Y PETROLEO SRL</b>., identificada con <b>RUC N.º 20606684348</b>, inscrita en la partida Electrónica <b>N°11343668</b> del registro de personas jurídicas de la oficina Registral de Chiclayo representada por su gerente general sr. <b>CARRASCO OSORIO ROBERTO CARLOS</b> , identificado con <b>DNI N°.71099586 </b>,  con poderes inscritos en el asiento B00001 de la referida partida electrónica quienes unidas mediante el contrato suscrito ante el notario público, respectivamente, constituyen el “CONSORCIO CUMBRES”; siendo la última de estas, el encargado de asumir la gerencia comercial del consorcio.       
         </p>
         
         
@@ -46,25 +46,25 @@
     <div class="clause">
     <p><b><u>SEGUNDO: ANTECEDENTES DEL BIEN INMUEBLE:</u></b></p>
     <p>
-    <b>EL CONSORCIO</b>, ha elaborado un proyecto de habilitación urbana con construcción simultanea de viviendas en adquisición de vivienda nueva del programa Techo Propio del fondo mi vivienda denominada <b>“CONDOMINIO LA RIBERA”</b>, que en adelante se denominará <b>EL PROYECTO</b>.
+    <b>EL CONSORCIO</b>, ha elaborado un proyecto de habilitación urbana con construcción simultanea de viviendas en adquisición de vivienda nueva del programa Techo Propio del fondo mi vivienda denominada <b>“CONDOMINIO LA RIBERA II”</b>, que en adelante se denominará <b>EL PROYECTO</b>.
         </p>
-        Asimismo, la empresa <b>INMOBILIARIA &CONSTRUTORA ALI TORRES E.I.RL.</b>, identificada con <b>RUC N.º 20605585907</b>, inscrita en la <b>Partida Electrónica N°11328386 </b>del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr.  <b>ELVIS HENRY TORRES SALDAÑA</b>, identificado con <b>DNI N.º 42225869</b>, con poderes inscritos en el asiento N°.C00001, de la referida partida electrónica; Declara ser propietario del predio identificado lote independizado UC. 11179 Ubic.Rur.Valle Chancay – Lambayeque/sector San Agustín/ predio Pescoran, Área ha.1.89, distrito de Pimentel, provincia de Chiclayo, departamento de Lambayeque, cuyo dominio, área, linderos, medidas perimétricas y demás especificaciones corren más ampliamente descritas en la Partida Registral <b>N.º 02253033</b> del registro de propiedad inmueble de la oficina registral de Chiclayo - Zona Registral N.º II - Sede Chiclayo, predio que en lo sucesivo se le denominara <b>El INMUEBLE</b>, mismo que se encuentra sujeto a <b>EL PROYECTO</b>. Por otro lado, el CONSORCIO CUMBRES, debidamente representado por su Gerente General sr.  <b>JORGE LUIS YACILA SIANCAS</b>, identificado con <b>DNI N.º 16414190</b>, con poderes inscritos en el asiento A00001 de la referida partida electrónica, a quien en adelante se le denominará en adelante EL VENDEDOR.
+        Asimismo, la empresa <b>INMOBILIARIA &CONSTRUTORA ALI TORRES E.I.RL.</b>, identificada con RUC N°20605585907, inscrita en la Partida Electrónica N°11328386 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General <b>ELVIS HENRY TORRES SALDAÑA</b>, identificado con DNI N° 42225869, con poderes inscritos en el asiento N° C00001, de la referida partida electrónica; Declara ser copropietario del predio ubicado a la altura del Km1.5 lado este de la carretera Pimentel – Santa Rosa, distrito de Pimentel, Provincia de Chiclayo, Departamento de Lambayeque, cuyo dominio, área, linderos, medidas perimétricas y demás especificaciones corren más ampliamente descritas en la Partida Registral Nº 02024384 del registro de propiedad inmueble de la oficina registral de Chiclayo - Zona Registral Nº II - Sede Chiclayo, predio que en lo sucesivo se le denominara <b>El INMUEBLE</b>, mismo que se encuentra sujeto a <b>EL PROYECTO</b>. Por otro lado, el CONSORCIO CUMBRES, debidamente representado por su Gerente General <b>JORGE LUIS YACILA SIANCAS</b>, identificado con DNI N° 16414190, con poderes inscritos en el asiento A00001 de la referida partida electrónica, a quien en adelante se le denominará en adelante <b>EL VENDEDOR</b>.
         </p>
   </div>
 
   <div class="clause">
     <p><b><u>TERCERO: DEL BIEN MATERIA A TRANSFERIR:</u></b></p>
     <p style="background-color:#FFFF00;">
-    Por el presente contrato el prominente VENDEDOR se compromete a dar en venta real un departamento con ---M2, ubicado en el --º Piso de la Torre ---, N.º ---- , cuyos linderos se detallan a continuación:</p>
+    Por el presente contrato el prominente <b>VENDEDOR</b> se compromete a dar en venta real de la <b>MZ --- LT ---</b>, y en enajenación perpetua la totalidad del lote 60M2, donde según plano adjunto, cuyos linderos y medidas perimétricas detallan 60M2 de área total y 36M2 del área construida.</p>
    
     
-    <p>PRECISAR PERÍMETRO Y DIMENSIONES DEL DEPARTAMENTO:</p>
+    <p>LINDEROS DE LA PROPIEDAD:</p>
             <ul class="custom-list">
         
-            <li>POR EL FRENTE: CON PISO N°---- , CUARTO ----</li>
-            <li>POR EL FONDO: CON PISO N°---- , CUARTO ----</li>
-            <li>POR LA DERECHA: CON PISO N°---- , CUARTO ----</b></li>
-            <li>POR LA IZQUIERDA: CON PISO N°---- , CUARTO ----</li>
+            <li>POR EL FRENTE: -----------</li>
+            <li>POR EL FONDO: -----------</li>
+            <li>POR LA DERECHA: -----------</b></li>
+            <li>POR LA IZQUIERDA: -----------</li>
             </ul>
 
             <p><u><B>DETALLES (ANEXO 02)</B></u></p>
@@ -83,8 +83,9 @@
     <div class="clause">
     <p><b><u>QUINTO: PRECIO Y FORMA DE PAGO:</u></b></p>
    
-        <p style="background-color:#FFFF00;">El precio del bien objeto de la prestación a cargo de <b>EL VENDEDOR</b> asciende a la suma de <b>S/ 52,000.00 (Cincuenta y Dos Mil Soles)</b>, dicho precio se encuentra ya con el descuento del BFH que será cancelado por EL COMPRADOR mediante depósito en la cuenta del <b>CONSORCIO</b> en la forma establecida conforme al Cronograma de Pago descrito en el <b>ANEXO 1</b>.</p>
-        <p style="background-color:#FFFF00;">Su <b>inicial abonada es de s/.  3,000.00 (Tres Mil Soles)</b> y el <b>saldo de S/ 49,000.00 (Cuarenta y Nueve Mil Soles)</b> será financiado según cronograma de pagos ANEXO 1.</p>
+        <p >El precio del bien objeto de la prestación a cargo de <b>EL VENDEDOR</b> asciende a la suma de S/ …………………………………….dicho precio se encuentra ya con el descuento del BFH que será cancelado por <b>EL COMPRADOR</b> mediante depósito en la cuenta del <b>CONSORCIO</b> en la forma establecida conforme al Cronograma de Pago descrito en el <b>ANEXO 1</b>.</p>
+        <p >Su inicial abonada es de S/.------------------- (      ) y el saldo de S/.--------------------------- (        ).
+        </p>
 
     </div>
 
@@ -106,7 +107,7 @@
    
         <p><b>EL VENDEDOR</b> declara que el bien objeto de la prestación a su cargo se encuentra, al momento de celebrarse este contrato, libre de toda carga, gravamen, derecho real de garantía, medida judicial o extrajudicial y en general de todo acto o circunstancia que impida, prive o limite la libre disponibilidad, y/o el derecho de propiedad, posesión o uso del bien. No obstante, <b>EL VENDEDOR</b> se obliga al saneamiento por evicción, que comprenderá todos los conceptos previstos en el artículo 1495 del Código Civil.</p>
 
-        <p>No obstante, la declaración de EL VENDEDOR, en la cláusula segunda de este documento, aquel se obliga al saneamiento por vicios ocultos y por hecho propio existentes al momento de la transferencia.</p>
+        <p>No obstante, la declaración de <b>EL VENDEDOR</b>, en la cláusula segunda de este documento, aquel se obliga al saneamiento por vicios ocultos y por hecho propio existentes al momento de la transferencia.</p>
 
     </div>
 
@@ -147,10 +148,7 @@
     <div class="clause">
     <p><b><u>DUODÉCIMO: DOMICILIO</u></b></p>
    
-        <p>Para la validez de todas las comunicaciones y notificaciones a las partes, con motivo de la ejecución de este contrato, ambas señalan como sus respectivos domicilios los indicados en la introducción de este documento.</p>
-
-
-        <p>El cambio de domicilio de cualquiera de las partes surtirá efecto desde la fecha de comunicación de dicho cambio a la otra parte, por vía notarial.</p>
+        <p>Para la validez de todas las comunicaciones y notificaciones a las partes, con motivo de la ejecución de este contrato, ambas señalan como sus respectivos domicilios los indicados en la introducción de este documento. El cambio de domicilio de cualquiera de las partes surtirá efecto desde la fecha de comunicación de dicho cambio a la otra parte, por vía notarial.</p>
 
 
 
@@ -246,33 +244,40 @@ ANEXO 02</h2>
     
     <div class="clause">
         <p>Proyecto destinado a la entrega de Viviendas de Interés Social en su modalidad de adquisición de vivienda nueva, se presentan las condiciones técnicas de la VIS que será entregada en la fecha establecida.</p>
-       
-        <p><b>1.	ÁREA CONSTRUIDO</b></p>
-        <p>Área construida de 50.00 m2, en la cual se considera los ambientes:</p>
+        <p>Área construida de 36.00 m2, en la cual se considera los ambientes:</p>
 
         <ul class="custom-list">
-        <p><b>AMBIENTE</b></p>
-            <li>01 ambiente para sala-comedor.</li>
-            <li>Área de cocina.</li>
+        <p><b>1. AMBIENTE</b></p>
+            <li>01 pieza para sala, comedor y área de cocina.</li>
+            <li>02 dormitorios.</li>
             <li>02 dormitorios.</li>
             <li>01 baño completo (con lavatorio, ducha e inodoro).</li>
-            <li>Zona de lavandería</li>
+            <li>Zona de lavandería (Área no techada).</li>
             <li>Altura del módulo 2.50m de piso a techo</li>
 
         </ul>
     </div>
 
     <p><b>2.	SISTEMA CONSTRUCTIVO</b></p>
-        <p>Sistema constructivo con ductilidad limitada construido. </p>
+        <p>Sistema constructivo en albañilería confinada constituido por ladrillos de arcilla, columnas de amarre vibrado y losas aligeradas.</p>
 
         <ul class="custom-list">
         <p><b>Elementos Estructurales:</b></p>
-            <li>Muros y lozas de concreto armado.</li>
+            <li>Zapatas, columnas, y losas (acero de fy=4200kg/cm2 y el concreto de f’c= 210kg/cm2).</li>
+        
+        <p><b>Cerramientos Verticales:</b></p>
+            <li>Muros de albañilería confinada (con ladrillos de arcilla)</li>
+        
+        <p><b>Características:</b></p>
+            <li>Acero de refuerzo horizontal entre las hileras del muro.</li>
+        
+        <p><b>Techos:</b></p>
+            <li>Losa aligerada impermeabilizada. Reforzada con acero corrugado de fy=4200 kg/cm2, la cual contara con sistema de evacuación de aguas pluviales.</li>
         </ul>
     </div>
 
     <p><b>3.	CONDICIONES TECNICAS DE LA VIVIENDA</b></p>
-        <p><b>a.	AREA CONSTRUIDA</b></p>
+        <p><b>3.1.	AREA CONSTRUIDA</b></p>
         <ul class="custom-list">
         <p><b>PISOS</b></p>
             <li>Acabado con cemento pulido en ambientes interiores.</li>
@@ -280,33 +285,31 @@ ANEXO 02</h2>
             <p><b>REVOQUES Y PINTURA</b></p>
             <li>En la fachada tarrajeada con pintura a color de proyecto.</li>
             <li>En los baños cerámica nacional a una altura de 1.80m en la ducha y 1.20 m detrás de los aparatos sanitarios.</li>
-            <li>Muros interiores solaqueado y pintado.</li>
-            <li>Cielo raso solaqueado y pintado.</li>
+            <li>Muros interiores tarrajeados.</li>
+            <li>Columnas interiores: tarrajeados.</li>
+            <li>Cielo raso tarrajeado.</li>
             <p><b>CARPINTERIA</b></p>
             <li>Puerta principal: Madera contra placada.</li>
+            <li>Interiores y patio exterior: contra placada e=4.00 cm con marco de madera.</li>
             <li>Bisagras capuchinas.</li>
             <li>Ventanas con sistema, marco de aluminio y vidrio de 5.5mm.</li>
             <p><b>CERRAJERIA</b></p>
             <li>02 golpes en puerta principal y tipo de perilla en puertas interiores.</li>
             <p><b>APARATOS SANITARIOS Y GRIFERIA</b></p>
-            <li>Servicio higiénico: Inodoro y lavatorio de loza blanca.</li>
-            <li>Cocina: Lavadero de acero inoxidable.</li>
-            <li>Lavandería: Lavadero prefabricado de una poza (60 x 40cm).</li>
+            <li>Servicio higiénico: Inodoro y lavatorio de loza blanca nacional.</li>
+            <li>Cocina: Lavadero de acero inoxidable nacional.</li>
+            <li>Lavandería: Lavadero de una poza (60 x 40cm).</li>
             <li>Grifería liviana nacional o similar.</li>
 
 
             <p><b>INSTALACIONES ELÉCTRICAS</b></p>
             <li>Tablero general con mínimo 3 llaves termo magnética, tubería PVC sap pesado, tubería empotrada, placas en tomacorrientes e interruptores de baquelita y Wall sockets en salida de luz con artefacto de iluminación.</li>
             <p><b>INSTALACIONES SANITARIAS</b></p>
-            <li>Red de desagüe de tubería pvc sal con caja de registro que evacuará a la red pública, en cuyo contemplará un sistema de aguas residuales. Red de agua tubería pvc sap.</li>
+            <li>Red de desagüe de tubería pvc sal con caja de registro que evacuará a la red pública, en cuyo contemplará un sistema de aguas residuales. Red de agua tubería pvc sap, roscada, montante 4” para desagüe proyección 2° piso como parte del sistema de desagüe.</li>
             <p><b>INSTALACIONES DE GAS</b></p>
             <li>No tendrá instalaciones de gas</li>
             <p><b>INSTALACIONES DE TELÉFONO/INTERNET/CABLE</b></p>
             <li>Sí tendrá instalaciones para teléfono/internet/cable.</li>
-            <p><b>IMPLEMENTACIÓN DEL SISTEMA SMART</b></p>
-            <li>Luminarias y toma corrientes en puntos estratégicos.</li>
-            <li>Acceso abierto para futuras implementaciones del propietario.</li>
-
 
 
         </ul>
@@ -318,7 +321,7 @@ ANEXO 02</h2>
 
 
 
-<b><p>4.	HABITACIÓN URBANA</p></b>
+<b><p>3.2.	HABITACIÓN URBANA</p></b>
 <p>Tipo de Habilitación urbana con construcción simultanea de viviendas, se efectuarán todos los servicios básicos reglamentados para urbanizaciones con fines de vivienda.</p>
 <ul class="custom-list">
 
@@ -328,7 +331,6 @@ ANEXO 02</h2>
     <li><b>LUZ:</b> Tendido eléctrico con alumbrado público, con conexión domiciliaria.</li>
 
 </div>
-
 
 </body>
 </html>
