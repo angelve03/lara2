@@ -123,7 +123,7 @@
             </tr>
 
             <tr>
-            <td >MANZANA</td>
+            <td >UBICACIÓN</td>
             <td ></td>
             <td >DESC. PROMOCIONAL	
             </td>
@@ -134,7 +134,7 @@
             </tr>
 
             <tr>
-            <td >LOTE
+            <td >AREA DE LOTES
             </td>
             <td ></td>
             <td >DESC. OTROS	
@@ -146,7 +146,7 @@
             </tr>
             
             <tr>
-            <td >ÁREA TOTAL
+            <td >ÁREA CONSTRUIDA
             </td>
             <td ></td>
             <td >PLAZO	
@@ -158,10 +158,10 @@
             </tr>
 
             <tr>
-            <td >ÁREA CONSTRUIDA
+            <td >FECHA DE INICIO
             </td>
             <td ></td>
-            <td >TIPO DE PAGO	
+            <td >TIPO DE CUOTAS	
             </td>
             <td ></td>
             <td >DESCUENTO TOTAL	
@@ -170,10 +170,10 @@
             </tr>
 
             <tr>
-            <td >FECHA DE INICIO
+            <td >FECHA DE PAGO
             </td>
             <td ></td>
-            <td >1º - 6º MES	
+            <td >MONTO 1ER AÑO	
             </td>
             <td ></td>
             <td >PRECIO CON DESCUENTO	
@@ -182,10 +182,10 @@
             </tr>
 
             <tr>
-            <td >FECHA DE PAGO
+            <td >FECHA DE FINAL
             </td>
             <td ></td>
-            <td >7º - 12º MES	
+            <td >MONTO 2DO AÑO	
             </td>
             <td ></td>
             <td >PAGO INICIAL	
@@ -194,19 +194,11 @@
             </tr>
 
             <tr>
-    <td>FECHA FINAL</td>
+    <td>FECHA ESPECIAL DE PAGO</td>
     <td></td>
-    <td>13º - 18º MES</td>
+    <td>MONTO 3ER AÑO</td>
     <td></td>
-    <td rowspan="2">PAGO FINANCIADO</td>
-    <td></td>
-</tr>
-
-<tr>
-    <td>FECHA ESPECIAL</td>
-    <td></td>
-    <td>19º - 36º MES</td>
-    <td></td>
+    <td >PAGO FINANCIADO</td>
     <td></td>
 </tr>
 

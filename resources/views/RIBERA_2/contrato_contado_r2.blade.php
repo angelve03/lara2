@@ -37,7 +37,7 @@
     <div class="clause">
         <p><b><u>PRIMERA: ANTECEDENTES DEL CONSORCIO:</u></b></p>
         <p>
-        <b>EL CONSORCIO </b>está compuesto por tres personas jurídicas que persiguen similares objetivos, <b>INMOBILIARIA &CONSTRUTORA ALI TORRES E.I.R.L.</b>, identificada con RUC N°20605585907, inscrita en la Partida Electrónica N°11328386 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr.<b> ELVIS HENRY TORRES SALDAÑA</b>, identificado con DNI N°42225869, con poderes inscritos en el asiento N°C00001, de la referida partida electrónica y <b>QUBO GRUPO DESARROLLADOR S.A.C.</b>, con RUC N°20609441136, inscrita en la Partida Electrónica N°11395373 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>JORGE LUIS YACILA SIANCAS</b>, identificado con DNI N°16414190, con poderes inscritos en el asiento A00001 de la referida partida electrónica; <b>SERVICIO A LA CONSTRUCCION MINERIA Y PETROLEO SRL.</b>, identificada con RUC N°20606684348, inscrita en la partida Electrónica N°11343668 del registro de personas jurídicas de la oficina Registral de Chiclayo representada por su gerente general sr. <b>CARRASCO OSORIO ROBERTO CARLOS</b>, identificado con DNI N°71099586 ,  con poderes inscritos en el asiento B00001 de la referida partida electrónica quienes unidas mediante el contrato suscrito ante el notario público, respectivamente, constituyen el <b>“CONSORCIO CUMBRES”</b>; siendo la última de estas, el encargado de asumir la gerencia comercial del consorcio. 
+        <b>EL CONSORCIO</b> está compuesto por tres personas jurídicas que persiguen similares objetivos, <b>INMOBILIARIA & CONSTRUTORA ALITORRES E.I.R.L.</b>, identificada con RUC N°20605585907, inscrita en la Partida Electrónica N°11328386 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>ELVIS HENRY TORRES SALDAÑA</b>, identificado con DNI N°42225869, con poderes inscritos en el asiento N°C00001, de la referida partida electrónica y <b>QUBO GRUPO DESARROLLADOR S.A.C.</b>, con RUC N°20609441136, inscrita en la Partida Electrónica N°11395373 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>JORGE LUIS YACILA SIANCAS</b>, identificado con DNI N°16414190, con poderes inscritos en el asiento A00001 de la referida partida electrónica; <b>SERVICIO A LA CONSTRUCCION MINERIA Y PETROLEO SRL.</b>, identificada con RUC N°20606684348, inscrita en la partida Electrónica N°11343668 del registro de personas jurídicas de la oficina Registral de Chiclayo representada por su gerente general sr. <b>CARRASCO OSORIO ROBERTO CARLOS</b>, identificado con DNI N°71099586 ,  con poderes inscritos en el asiento B00001 de la referida partida electrónica quienes unidas mediante el contrato suscrito ante el notario público, respectivamente, constituyen el <b>“CONSORCIO CUMBRES”</b>; siendo la última de estas, el encargado de asumir la gerencia comercial del consorcio.
         </p>
         
         
@@ -49,7 +49,7 @@
     <p>
     <b>EL CONSORCIO</b>, ha elaborado un proyecto de habilitación urbana con construcción simultanea de viviendas en adquisición de vivienda nueva del programa Techo Propio del fondo mi vivienda denominada <b>“CONDOMINIO LA RIBERA II”</b>, que en adelante se denominará<b> EL PROYECTO</b>.
         </p>
-        Asimismo, la empresa <b>INMOBILIARIA &CONSTRUTORA ALI TORRES E.I.RL.</b>, identificada con RUC N°20605585907, inscrita en la Partida Electrónica N°11328386 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General <b>ELVIS HENRY TORRES SALDAÑA</b>, identificado con DNI N° 42225869, con poderes inscritos en el asiento N° C00001, de la referida partida electrónica; Declara ser copropietario del predio ubicado a la altura del Km1.5 lado este de la carretera Pimentel – Santa Rosa, distrito de Pimentel, Provincia de Chiclayo, Departamento de Lambayeque, cuyo dominio, área, linderos, medidas perimétricas y demás especificaciones corren más ampliamente descritas en la Partida Registral Nº 02024384 del registro de propiedad inmueble de la oficina registral de Chiclayo - Zona Registral Nº II - Sede Chiclayo, predio que en lo sucesivo se le denominara <b>El INMUEBLE</b>, mismo que se encuentra sujeto a <b>EL PROYECTO</b>. Por otro lado, el CONSORCIO CUMBRES, debidamente representado por su Gerente General <b>JORGE LUIS YACILA SIANCAS</b>, identificado con DNI N° 16414190, con poderes inscritos en el asiento A00001 de la referida partida electrónica, a quien en adelante se le denominará en adelante <b>EL VENDEDOR</b>.
+        Asimismo, la empresa <b>INMOBILIARIA & CONSTRUTORA ALITORRES E.I.RL.</b>, identificada con RUC N°20605585907, inscrita en la Partida Electrónica N°11328386 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General <b>ELVIS HENRY TORRES SALDAÑA</b>, identificado con DNI N° 42225869, con poderes inscritos en el asiento N° C00001, de la referida partida electrónica; Declara ser copropietario del predio ubicado a la altura del Km1.5 lado este de la carretera Pimentel – Santa Rosa, distrito de Pimentel, Provincia de Chiclayo, Departamento de Lambayeque, cuyo dominio, área, linderos, medidas perimétricas y demás especificaciones corren más ampliamente descritas en la Partida Registral Nº 02024384 del registro de propiedad inmueble de la oficina registral de Chiclayo - Zona Registral Nº II - Sede Chiclayo, predio que en lo sucesivo se le denominara <b>El INMUEBLE</b>, mismo que se encuentra sujeto a <b>EL PROYECTO</b>. Por otro lado, el CONSORCIO CUMBRES, debidamente representado por su Gerente General <b>JORGE LUIS YACILA SIANCAS</b>, identificado con DNI N° 16414190, con poderes inscritos en el asiento A00001 de la referida partida electrónica, a quien en adelante se le denominará en adelante <b>EL VENDEDOR</b>.
         </p>
   </div>
 
@@ -91,7 +91,7 @@
     <div class="clause">
     <p><b><u>SEXTO: OBLIGACIONES DE LAS PARTES:</u></b></p>
    
-        <p>EL VENDEDOR se obliga a entregar el bien objeto de la prestación a su cargo en la fecha pactada en la cláusula décimo quinto y tener todas las cuotas canceladas descritas en el <b>ANEXO 01</b>, acto que se verificará con el acta de entrega del bien inmueble, procurándole a <b>EL COMPRADOR</b> tomar efectiva posesión de dicho bien. <b>(ANEXO 01)</b> </p>
+        <p>EL VENDEDOR se obliga a entregar el bien objeto de la prestación a su cargo en la fecha pactada, acto que se verificará con el acta de entrega del bien inmueble, procurándole a EL COMPRADOR tomar efectiva posesión de dicho bien.<b> (ANEXO 01) </b></p>
 
         <p>Del mismo modo, <b>EL COMPRADOR</b> se obliga a pagar el precio convenido en el momento y forma pactados en la cláusula cuarta de este documento.</p>
 
@@ -246,13 +246,10 @@ ANEXO 01</h2>
         <ul class="custom-list">
         <p><b>Elementos Estructurales:</b></p>
             <li>Zapatas, columnas, y losas (acero de fy=4200kg/cm2 y el concreto de f’c= 210kg/cm2).</li>
-        </ul>
         <p><b>Cerramientos Verticales:</b></p>
             <li>Muros de albañilería confinada (con ladrillos de arcilla)</li>
-        </ul>
         <p><b>Características:</b></p>
             <li>Acero de refuerzo horizontal entre las hileras del muro.</li>
-        </ul>
         <p><b>Techos:</b></p>
             <li>Losa aligerada impermeabilizada. Reforzada con acero corrugado de fy=4200 kg/cm2, la cual contara con sistema de evacuación de aguas pluviales.</li>
         </ul>
