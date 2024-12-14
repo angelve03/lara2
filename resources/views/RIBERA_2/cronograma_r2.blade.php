@@ -134,7 +134,7 @@
             </tr>
 
             <tr>
-            <td >AREA DE LOTES
+            <td >AREA DE LOTE
             </td>
             <td ></td>
             <td >DESC. OTROS	
