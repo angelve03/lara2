@@ -93,6 +93,36 @@
         </ul>
             
 </div>
+<div class="container" style="margin-left: 1em;">
+<H1 >LA RIBERA III</H1>
+
+        <ul >
+            <li><a href="{{ url('/documento40') }}">FICHA CONTADO</a></li>
+            <li><a href="{{ url('/documento41') }}">FICHA FINANCIADO</a></li>
+            <li><a href="{{ url('/documento42') }}">CONTRATO CONTADO</a></li>
+            <li><a href="{{ url('/documento43') }}">CONTRATO FINANCIADO</a></li>
+            <li><a href="{{ url('/documento44') }}">CRONOGRAMA</a></li>
+        </ul>
+
+        <h2 >ESTACIONAMIENTO</h2>
+        <ul >
+        <li><a href="{{ url('#') }}">FICHA CONTADO</a></li>
+        <li><a href="{{ url('#') }}">FICHA FINANCIADO</a></li>
+        <li><a href="{{ url('#') }}">CONTRATO CONTADO</a></li>
+        <li><a href="{{ url('#') }}">CONTRATO FINANCIADO</a></li>
+        <li><a href="{{ url('#') }}">CRONOGRAMA</a></li>
+        </ul>
+            
+        <h2>DEPARTAMENTO </h2>
+        <ul >
+            <li><a href="{{ url('#') }}">FICHA CONTADO</a></li>
+            <li><a href="{{ url('#') }}">FICHA FINANCIADO</a></li>
+            <li><a href="{{ url('#') }}">CONTRATO CONTADO</a></li>
+            <li><a href="{{ url('#') }}">CONTRATO FINANCIADO</a></li>
+            <li><a href="{{ url('#') }}">CRONOGRAMA</a></li>
+        </ul>
+            
+</div>
 
 </body>
 </html>

@@ -125,3 +125,21 @@ Route::get('/documento28', function () {
 Route::get('/documento29', function () {
     return view('RIBERA_2.cronograma_r2');
 });
+
+
+
+Route::get('/documento40', function () {
+    return view('RIBERA_3.ficha_contado_r3');
+});
+Route::get('/documento41', function () {
+    return view('RIBERA_3.ficha_financiado_r3');
+});
+Route::get('/documento42', function () {
+    return view('RIBERA_3.contrato_contado_r3');
+});
+Route::get('/documento43', function () {
+    return view('RIBERA_3.contrato_financiado_r3');
+});
+Route::get('/documento44', function () {
+    return view('RIBERA_3.cronograma_r3');
+});

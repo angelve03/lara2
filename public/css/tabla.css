@@ -20,15 +20,7 @@
                 font-size: 11pt;
                 
             }
-            .background-container {
-                position: relative;
-                width: 100%;
-                height: 180vh; 
-                background-image: url('{{ asset('img/fondo.png') }}');
-                background-size: cover; 
-                background-position: center 0%;
-                background-repeat: no-repeat; 
-            }
+        
             
             
             p {
