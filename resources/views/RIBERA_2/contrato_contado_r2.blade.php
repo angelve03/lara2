@@ -84,8 +84,9 @@
     <div class="clause">
     <p><b><u>QUINTO: PRECIO Y FORMA DE PAGO:</u></b></p>
    
-        <p style="background-color:#FFFF00;">El precio del bien objeto de la prestación a cargo de<b> EL VENDEDOR</b> asciende a la suma de S/71,805.00 (SETENTA Y UN MIL OCHOCIENTOS CINCO SOLES) dicho precio se encuentra ya con el descuento del BFH que será cancelado por <b>EL COMPRADOR</b> con el saldo de S/27,000 (VEINTICIENTE MIL NUEVOS SOLES) mediante depósito en la cuenta del CONSORCIO en la forma al contado.</p>
-        <p style="background-color:#FFFF00;"><b>EL COMPRADOR</b> cancela de manera al contado al momento de llevarse a cabo la compra; mediante depósito en la cuenta del CONSORCIO siendo el N.º 3056967606064. Que, a su vez tendrá tenerse una copia de la operación realizada para evitar problemas a posterior.</p>
+        <p >El precio del bien objeto de la prestación a cargo de <b>EL VENDEDOR</b> asciende a la suma de  S/.00 ( SOLES) dicho precio se encuentra ya con el descuento del BFH que será cancelado por <b>EL COMPRADOR</b> con el saldo total de S/ ( ) mediante depósito en la cuenta del CONSORCIO en la forma al contado.</p>
+        <p ><b>EL COMPRADOR</b> cancela de manera al contado al momento de llevarse a cabo la compra; mediante depósito en la cuenta del CONSORCIO siendo el N.º 3056967606064. Que, a su vez tendrá tenerse una copia de la operación realizada. </p>
+        <p >Ante alguna duda o consulta comunicarse al correo ventas@cumbres.com.pe y/o celular: 987 015 613</p>
     </div>
 
     <div class="clause">
