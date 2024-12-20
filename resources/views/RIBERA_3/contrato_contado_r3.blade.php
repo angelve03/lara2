@@ -6,20 +6,26 @@
     <title>Contrato Privado de Promesa de Venta</title>
     <link rel="stylesheet" href={{asset('css/consorcio.css')}}>
     <style>
-    .header-image {
-                width: 100px;
-                height: auto;
-            }
+    .header {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+}
+
+.header-image {
+    width: 100px;
+    height: auto;
+}
             </style>
 </head>
 <body>
 
-    <div class="header">
-        <img src={{asset('img/cum.png')}} alt="Imagen Izquierda" class="header-image">
-        <h1>CONTRATO DE COMPROMISO DE COMPRA VENTA AL CONTADO LA RIBERA III</h1>
-        <img src={{asset('img/r3.png')}} alt="Imagen Derecha" class="header-image">
-
-    </div>
+<div class="header">
+    <img src={{asset('img/cum.png')}} alt="Imagen Izquierda" class="header-image">
+    <img src={{asset('img/r3.png')}} alt="Imagen Medio" class="header-image">
+    <img src={{asset('img/marbecorp.png')}} alt="Imagen Derecha" class="header-image">
+</div>
+<h1>CONTRATO DE COMPROMISO DE COMPRA VENTA AL CONTADO CONDOMINIO LA RIBERA III</h1>
 
     <p>Conste el presente documento un CONTRATO PRIVADO DE COMPROMISO DE COMPRA VENTA AL CONTADO, que celebra de una parte:</p>
 
@@ -39,8 +45,7 @@
         <p>
         <b>EL CONSORCIO</b> está compuesto por tres personas jurídicas que persiguen similares objetivos, <b>INMOBILIARIA & CONSTRUTORA ALITORRES E.I.R.L.</b>, identificada con RUC N°20605585907, inscrita en la Partida Electrónica N°11328386 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>ELVIS HENRY TORRES SALDAÑA</b>, identificado con DNI N°42225869, con poderes inscritos en el asiento N°C00001, de la referida partida electrónica y <b>QUBO GRUPO DESARROLLADOR S.A.C.</b>, con RUC N°20609441136, inscrita en la Partida Electrónica N°11395373 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>JORGE LUIS YACILA SIANCAS</b>, identificado con DNI N°16414190, con poderes inscritos en el asiento A00001 de la referida partida electrónica; <b>SERVICIO A LA CONSTRUCCION MINERIA Y PETROLEO SRL.</b>, identificada con RUC N°20606684348, inscrita en la partida Electrónica N°11343668 del registro de personas jurídicas de la oficina Registral de Chiclayo representada por su gerente general sr. <b>CARRASCO OSORIO ROBERTO CARLOS</b>, identificado con DNI N°71099586 ,  con poderes inscritos en el asiento B00001 de la referida partida electrónica quienes unidas mediante el contrato suscrito ante el notario público, respectivamente, constituyen el <b>“CONSORCIO CUMBRES”</b>; siendo la última de estas, el encargado de asumir la gerencia comercial del consorcio.
         </p>
-        <p>Con la Participación del Asociado en Participación, <b>MARBECORP DESARROLLO CORPORATICO S.A.C.</b>, identificada con RUC N° 20613027743, inscrita en la Partida Electrónica N° 11477103 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>MARITZA CRISTINA BOCANEGRA ESCOBAR</b>, identificado con DNI N° 43471859, con poderes inscritos en el asiento N° C00001, de la referida partida electrónica.</p>
-        
+        <p>Así mismo la empresa, <b>MARBECORP DESARROLLO CORPORATIVO S.A.C.</b>, identificada con RUC N° 20613027743, inscrita en la Partida Electrónica N° 11477103 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>MARITZA CRISTINA BOCANEGRA ESCOBAR</b>, identificado con DNI N° 43471859, con poderes inscritos en el asiento N° C00001, de la referida partida electrónica, propietario del bien inmueble, donde se elaborará <b>“CONDOMINIO LA RIBERA III”</b>.</p>
         
     </div>
 
@@ -49,7 +54,7 @@
     <p><b><u>SEGUNDO: ANTECEDENTES DEL BIEN INMUEBLE:</u></b></p>
     <p>
     <b>EL CONSORCIO</b>, ha elaborado un proyecto de habilitación urbana con construcción simultanea de viviendas en adquisición de vivienda nueva del programa Techo Propio del fondo mi vivienda denominada <b>“CONDOMINIO LA RIBERA III”</b>, que en adelante se denominará<b> EL PROYECTO</b>.</p>
-    <p> Asimismo, la empresa <b>MARBECORP DESARROLLO CORPORATICO S.A.C.</b>, identificada con RUC N° 20613027743, inscrita en la Partida Electrónica N° 11477103 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>MARITZA CRISTINA BOCANEGRA ESCOBAR</b>, identificado con DNI N° 43471859, con poderes inscritos en el asiento N° C00001, de la referida partida electrónica; Declara ser copropietario del predio ubicado en Sector Las Pampas, Valle Chancay – Lambayeque, distrito de Pimentel, Provincia de Chiclayo, Departamento de Lambayeque, cuyo dominio, área, linderos, medidas perimétricas y demás especificaciones corren más ampliamente descritas en la Partida Registral Nº 11153420 del registro de propiedad inmueble de la oficina registral de Chiclayo - Zona Registral Nº II - Sede Chiclayo, predio que en lo sucesivo se le denominara <b>El INMUEBLE</b>, mismo que se encuentra sujeto a <b>EL PROYECTO</b>. Por otro lado, el CONSORCIO CUMBRES, debidamente representado por su Apoderado <b>JORGE LUIS YACILA SIANCAS</b>, identificado con DNI N° 16414190, con poder indicado en el contrato del consorcio, a quien en adelante se le denominará en adelante <b>EL VENDEDOR</b>.
+    <p> Asimismo, la empresa <b>MARBECORP DESARROLLO CORPORATIVO S.A.C.</b>, identificada con RUC N° 20613027743, inscrita en la Partida Electrónica N° 11477103 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>MARITZA CRISTINA BOCANEGRA ESCOBAR</b>, identificado con DNI N° 43471859, con poderes inscritos en el asiento N° A00001, de la referida partida electrónica; Declara ser propietario del predio ubicado en Sector Las Pampas de Pimentel, Valle Chancay, distrito de Pimentel, Provincia de Chiclayo, Departamento de Lambayeque, cuyo dominio, área, linderos, medidas perimétricas y demás especificaciones corren más ampliamente descritas en la Partida Registral Nº 02002796 del registro de propiedad inmueble de la oficina registral de Chiclayo - Zona Registral Nº II - Sede Chiclayo, predio que en lo sucesivo se le denominara <b>El INMUEBLE</b>, mismo que se encuentra sujeto a <b>EL PROYECTO</b>. Por otro lado, el CONSORCIO CUMBRES, debidamente representado por su Apoderado <b>JORGE LUIS YACILA SIANCAS</b>, identificado con DNI N° 16414190, con poder indicado en el contrato del consorcio, a quien en adelante se le denominará en adelante <b>EL VENDEDOR</b>.
     </p>
   </div>
 
@@ -84,14 +89,15 @@
     <div class="clause">
     <p><b><u>QUINTO: PRECIO Y FORMA DE PAGO:</u></b></p>
    
-        <p style="background-color:#FFFF00;">El precio del bien objeto de la prestación a cargo de<b> EL VENDEDOR</b> asciende a la suma de S/71,805.00 (SETENTA Y UN MIL OCHOCIENTOS CINCO SOLES) dicho precio se encuentra ya con el descuento del BFH que será cancelado por <b>EL COMPRADOR</b> con el saldo de S/27,000 (VEINTICIENTE MIL NUEVOS SOLES) mediante depósito en la cuenta del CONSORCIO en la forma al contado.</p>
-        <p style="background-color:#FFFF00;"><b>EL COMPRADOR</b> cancela de manera al contado al momento de llevarse a cabo la compra; mediante depósito en la cuenta del CONSORCIO siendo el N.º 3056967606064, enviando el voucher de depósito de pago  al correo ventas@cumbres.com.pe / celular: 987015613. Que, a su vez tendrá tenerse una copia de la operación realizada para evitar problemas a posterior.</p>
+        <p >El precio del bien objeto de la prestación a cargo de <b>EL VENDEDOR</b> asciende a la suma de  <b>S/3000.00 (TRES MIL SOLES)</b> dicho precio se encuentra ya con el descuento del BFH que será cancelado por <b>EL COMPRADOR</b> con el saldo total de S/ 2000(DOS MIL SOLES) mediante depósito en la cuenta del CONSORCIO en la forma al contado.</p>
+        <p >EL COMPRADOR cancela de manera al contado al momento de llevarse a cabo la compra; mediante depósito en la cuenta del CONSORCIO siendo el N.º 3056967606064. Que, a su vez tendrá tenerse una copia de la operación realizada.</p>
+        <p >Ante dudas o consultas comunicarse al correo ventas@cumbres.com.pe / celular: 987015613.</p>
     </div>
 
     <div class="clause">
     <p><b><u>SEXTO: OBLIGACIONES DE LAS PARTES:</u></b></p>
    
-        <p>EL VENDEDOR se obliga a entregar el bien objeto de la prestación a su cargo en la fecha pactada, acto que se verificará con el acta de entrega del bien inmueble, procurándole a EL COMPRADOR tomar efectiva posesión de dicho bien.<b> (ANEXO 01) </b></p>
+        <p>EL VENDEDOR se obliga a entregar el bien objeto de la prestación a su cargo en la fecha pactada, acto que se verificará con el acta de entrega del bien inmueble, procurándole a <b>EL COMPRADOR</b> tomar efectiva posesión de dicho bien.<b> (ANEXO 01) </b></p>
 
         <p>Del mismo modo, <b>EL COMPRADOR</b> se obliga a pagar el precio convenido en el momento y forma pactados en la cláusula cuarta de este documento.</p>
 
@@ -200,6 +206,12 @@
         <p>REPRESENTANTE LEGAL</p>
         <p>DNI: 16414190</p>
     </div>
+    <div class="signature" style="flex: 1;">
+        <p>____________________________</p>
+        <p>MARITZA CRISTINA BOCANEGRA ESCOBAR</p>
+        <p>REPRESENTANTE LEGAL</p>
+        <p>DNI: 43471859</p>
+    </div>
 
     <div class="signature" style="flex: 1;">
         <p>____________________________</p>
@@ -227,11 +239,10 @@ ANEXO 01</h2>
     <div class="clause">
         <p>Proyecto destinado a la entrega de Viviendas de Interés Social en su modalidad de adquisición de vivienda nueva, se presentan las condiciones técnicas de la VIS que será entregada en la fecha establecida.</p>
         <p>Área construida de 36.00 m2, en la cual se considera los ambientes:</p>
+        <p><b>1. AMBIENTE</b></p>
 
         <ul class="custom-list">
-        <p><b>1. AMBIENTE</b></p>
             <li>01 pieza para sala, comedor y área de cocina.</li>
-            <li>02 dormitorios.</li>
             <li>02 dormitorios.</li>
             <li>01 baño completo (con lavatorio, ducha e inodoro).</li>
             <li>Zona de lavandería (Área no techada).</li>

@@ -7,9 +7,9 @@
     <link rel="stylesheet" href={{asset('css/consorcio.css')}}>
     <style>
     .header {
-    display: flex; /* Activa el modelo de flexbox */
-    justify-content: space-between; /* Espacia uniformemente entre imágenes */
-    align-items: center; /* Centra las imágenes verticalmente si tienen diferentes alturas */
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
 }
 
 .header-image {
