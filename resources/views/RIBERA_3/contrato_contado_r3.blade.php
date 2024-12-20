@@ -206,12 +206,6 @@
         <p>REPRESENTANTE LEGAL</p>
         <p>DNI: 16414190</p>
     </div>
-    <div class="signature" style="flex: 1;">
-        <p>____________________________</p>
-        <p>MARITZA CRISTINA BOCANEGRA ESCOBAR</p>
-        <p>REPRESENTANTE LEGAL</p>
-        <p>DNI: 43471859</p>
-    </div>
 
     <div class="signature" style="flex: 1;">
         <p>____________________________</p>
@@ -221,6 +215,14 @@
 
     </div>
 
+</div>
+<div class="signature-container" style="display: flex; align-items: center;">
+    <div class="signature" style="flex: 1;">
+        <p>____________________________</p>
+        <p>MARITZA CRISTINA BOCANEGRA ESCOBAR</p>
+        <p>REPRESENTANTE LEGAL</p>
+        <p>DNI: 43471859</p>
+    </div>
 </div>
 <br>
 <br><br>
