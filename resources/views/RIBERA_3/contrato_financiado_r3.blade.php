@@ -6,20 +6,27 @@
     <title>Contrato Privado de Promesa de Venta</title>
     <link rel="stylesheet" href={{asset('css/consorcio.css')}}>
     <style>
-    .header-image {
-                width: 100px;
-                height: auto;
-            }
+    .header {
+    display: flex; /* Activa el modelo de flexbox */
+    justify-content: space-between; /* Espacia uniformemente entre imágenes */
+    align-items: center; /* Centra las imágenes verticalmente si tienen diferentes alturas */
+}
+
+.header-image {
+    width: 100px;
+    height: auto;
+}
             </style>
 </head>
 <body>
 
 <div class="header">
-        <img src={{asset('img/cum.png')}} alt="Imagen Izquierda" class="header-image">
-        <h1>CONTRATO DE COMPROMISO DE COMPRA VENTA FINANCIADO CONDOMINIO LA RIBERA III</h1>
-        <img src={{asset('img/r3.png')}} alt="Imagen Derecha" class="header-image">
+    <img src={{asset('img/cum.png')}} alt="Imagen Izquierda" class="header-image">
+    <img src={{asset('img/r3.png')}} alt="Imagen Medio" class="header-image">
+    <img src={{asset('img/marbecorp.png')}} alt="Imagen Derecha" class="header-image">
+</div>
+    <h1>CONTRATO DE COMPRA VENTA DE BIEN FUTURO MODALIDAD FINANCIADO DEL CONDOMINIO LA RIBERA III</h1>
 
-    </div>
     <p>Conste el presente documento un CONTRATO PRIVADO DE COMPROMISO DE COMPRA VENTA FINANCIADO, que celebra de una parte:</p>
 
     <div class="clause">
@@ -38,7 +45,7 @@
         <p>
         <b>EL CONSORCIO </b>está compuesto por tres personas jurídicas que persiguen similares objetivos,<b> INMOBILIARIA & CONSTRUTORA ALITORRES E.I.R.L.</b>, identificada con RUC N°20605585907, inscrita en la Partida Electrónica N.º 11328386 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>ELVIS HENRY TORRES SALDAÑA</b>, identificado con <b>DNI N.º 42225869</b>, con poderes inscritos en el asiento N°.C00001, de la referida partida electrónica y <b>QUBO GRUPO DESARROLLADOR S.A.C.</b>, con <b>RUC N.º 20609441136</b>, inscrita en la <b>Partida Electrónica N.º 11395373</b> del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>JORGE LUIS YACILA SIANCAS</b>, identificado con <b>DNI N.º 16414190</b>, con poderes inscritos en el asiento A00001 de la referida partida electrónica; <b>SERVICIO A LA CONSTRUCCION MINERIA Y PETROLEO SRL</b>., identificada con <b>RUC N.º 20606684348</b>, inscrita en la partida Electrónica <b>N°11343668</b> del registro de personas jurídicas de la oficina Registral de Chiclayo representada por su gerente general sr. <b>CARRASCO OSORIO ROBERTO CARLOS</b> , identificado con <b>DNI N°.71099586 </b>,  con poderes inscritos en el asiento B00001 de la referida partida electrónica quienes unidas mediante el contrato suscrito ante el notario público, respectivamente, constituyen el “CONSORCIO CUMBRES”; siendo la última de estas, el encargado de asumir la gerencia comercial del consorcio.       
         </p>
-        <p>Con la Participación del Asociado en Participación, <b>MARBECORP DESARROLLO CORPORATICO S.A.C.</b>, identificada con RUC N° 20613027743, inscrita en la Partida Electrónica N° 11477103 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>MARITZA CRISTINA BOCANEGRA ESCOBAR</b>, identificado con DNI N° 43471859, con poderes inscritos en el asiento N° C00001, de la referida partida electrónica.</p>
+        <p>Así mismo la empresa, <b>MARBECORP DESARROLLO CORPORATIVO S.A.C.</b>, identificada con RUC N° 20613027743, inscrita en la Partida Electrónica N° 11477103 del Registro de Personas Jurídicas de la Oficina Registral de Chiclayo, representada por su Gerente General sr. <b>MARITZA CRISTINA BOCANEGRA ESCOBAR</b>, identificado con DNI N° 43471859, con poderes inscritos en el asiento N° C00001, de la referida partida electrónica, propietario del bien inmueble, donde se elaborará <b>“CONDOMINIO LA RIBERA III”</b>.</p>
         
     </div>
 
@@ -83,9 +90,8 @@
     <p><b><u>QUINTO: PRECIO Y FORMA DE PAGO:</u></b></p>
    
         <p >El precio del bien objeto de la prestación a cargo de <b>EL VENDEDOR</b> asciende a la suma de
-        <b>S/50.000 (CIENCUENTA MIL SOLES)</b> dicho precio se encuentra ya con el descuento del BFH, adicionando un descuento promocional de S/.5000 (CINCO MIL SOLES) que será cancelado por <b>EL COMPRADOR</b> mediante depósito en la cuenta del <b>CONSORCIO</b> en la forma establecida, enviando el voucher de depósito de pago  al correo ventas@cumbres.com.pe / celular: 987015613, conforme al Cronograma de Pago descrito en el <b> ANEXO 1</b>.
-
-        </p><p >Su inicial abonada es de <b>S/3000 (TRES MIL SOLES)</b> y el saldo de 73948.6 (SETENTA Y TRES MIL NOVECIENTOS CUARENTA Y OCHO CON SESENTA CÉNTIMOS).   </p>
+        <b>S/50.000 (CIENCUENTA MIL SOLES)</b> dicho precio se encuentra ya con el descuento del BFH, adicionando un descuento promocional de S/.5000 (CINCO MIL SOLES) que será cancelado por <b>EL COMPRADOR</b> mediante depósito en la cuenta del <b>CONSORCIO</b> en la forma establecida, enviando el voucher de depósito de pago  al correo ventas@cumbres.com.pe / celular: 987015613, conforme al Cronograma de Pago descrito en el <b> ANEXO 1</b>.</p>
+        <p >Su inicial abonada es de <b>S/.3000 (TRES MIL SOLES)</b> y el saldo de S/.73948.6 (SETENTA Y TRES MIL NOVECIENTOS CUARENTA Y OCHO CON SESENTA CÉNTIMOS).   </p>
 
     </div>
 
@@ -221,6 +227,13 @@
 
     <div class="signature" style="flex: 1;">
         <p>____________________________</p>
+        <p>MARITZA CRISTINA BOCANEGRA ESCOBAR</p>
+        <p>REPRESENTANTE LEGAL</p>
+        <p>DNI: 43471859</p>
+    </div>
+
+    <div class="signature" style="flex: 1;">
+        <p>____________________________</p>
         <p>JILMER WESLEY BECERRA VASQUEZ</p>
         <p>PROPIETARIO(A)</p>
         <p>DNI: 16414190</p>
@@ -244,12 +257,11 @@ ANEXO 02</h2>
     
     <div class="clause">
         <p>Proyecto destinado a la entrega de Viviendas de Interés Social en su modalidad de adquisición de vivienda nueva, se presentan las condiciones técnicas de la VIS que será entregada en la fecha establecida.</p>
-        <p>Área construida de 36.00 m2, en la cual se considera los ambientes:</p>
+        <p>Área construida de 36.00 M2, en la cual se considera los ambientes:</p>
+        <p><b>1. AMBIENTE</b></p>
 
         <ul class="custom-list">
-        <p><b>1. AMBIENTE</b></p>
             <li>01 pieza para sala, comedor y área de cocina.</li>
-            <li>02 dormitorios.</li>
             <li>02 dormitorios.</li>
             <li>01 baño completo (con lavatorio, ducha e inodoro).</li>
             <li>Zona de lavandería (Área no techada).</li>
