@@ -232,7 +232,6 @@ ANEXO 01</h2>
         <p><b>1. AMBIENTE</b></p>
             <li>01 pieza para sala, comedor y área de cocina.</li>
             <li>02 dormitorios.</li>
-            <li>02 dormitorios.</li>
             <li>01 baño completo (con lavatorio, ducha e inodoro).</li>
             <li>Zona de lavandería (Área no techada).</li>
             <li>Altura del módulo 2.50m de piso a techo</li>
@@ -289,6 +288,9 @@ ANEXO 01</h2>
             <li>No tendrá instalaciones de gas</li>
             <p><b>INSTALACIONES DE TELÉFONO/INTERNET/CABLE</b></p>
             <li>Sí tendrá instalaciones para teléfono/internet/cable.</li>
+            <p><b>IMPLEMENTACIÓN DEL SISTEMA SMART</b></p>
+            <li>Luminarias y toma corrientes en puntos estratégicos.</li>
+            <li>Acceso abierto para futuras implementaciones del propietario.</li>
 
 
         </ul>

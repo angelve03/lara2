@@ -83,8 +83,10 @@
     <div class="clause">
     <p><b><u>QUINTO: PRECIO Y FORMA DE PAGO:</u></b></p>
    
-        <p >El precio del bien objeto de la prestación a cargo de <b>EL VENDEDOR</b> asciende a la suma de S/ …………………………………….dicho precio se encuentra ya con el descuento del BFH que será cancelado por <b>EL COMPRADOR</b> mediante depósito en la cuenta del <b>CONSORCIO</b> en la forma establecida conforme al Cronograma de Pago descrito en el <b>ANEXO 1</b>.</p>
-        <p >Su inicial abonada es de S/.------------------- (      ) y el saldo de S/.--------------------------- (        ).
+        <p >El precio del bien objeto de la prestación a cargo de <b>EL VENDEDOR</b> asciende a la suma de
+S/65268.6 (SESENTA Y CINCO MIL DOSCIENTOS SESENTA Y OCHO SOLES CON SESENTA CÉNTIMOS) dicho precio se encuentra ya con el descuento del BFH, adicionando un descuento promocional de S/.4000 (CUATRO MIL SOLES) que será cancelado por <b>EL COMPRADOR</b> mediante depósito en la cuenta del <b>CONSORCIO</b> en la forma establecida, enviando el Boucher de depósito de pago  al correo ventas@cumbres.com.pe / celular: 987015613, conforme al Cronograma de Pago descrito en el <b>ANEXO 1</b>.
+        </p>
+        <p >Su inicial abonada es de <b>S/3000</b> (TRES MIL SOLES) y el saldo de <b>S/58268.6</b> (CINCUENTA Y OCHO MIL DOSCIENTOS SESENTA Y OCHO SOLES CON SESENTA CÉNTIMOS). 
         </p>
 
     </div>
@@ -250,7 +252,6 @@ ANEXO 02</h2>
         <p><b>1. AMBIENTE</b></p>
             <li>01 pieza para sala, comedor y área de cocina.</li>
             <li>02 dormitorios.</li>
-            <li>02 dormitorios.</li>
             <li>01 baño completo (con lavatorio, ducha e inodoro).</li>
             <li>Zona de lavandería (Área no techada).</li>
             <li>Altura del módulo 2.50m de piso a techo</li>
@@ -310,7 +311,9 @@ ANEXO 02</h2>
             <li>No tendrá instalaciones de gas</li>
             <p><b>INSTALACIONES DE TELÉFONO/INTERNET/CABLE</b></p>
             <li>Sí tendrá instalaciones para teléfono/internet/cable.</li>
-
+            <p><b>IMPLEMENTACIÓN DEL SISTEMA SMART</b></p>
+            <li>Luminarias y toma corrientes en puntos estratégicos.</li>
+            <li>Acceso abierto para futuras implementaciones del propietario.</li>
 
         </ul>
     </div>
