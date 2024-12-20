@@ -308,12 +308,6 @@ ANEXO 01</h2>
         </ul>
     </div>
 
-
-
-
-
-
-
 <b><p>3.2.	HABITACIÓN URBANA</p></b>
 <p>Tipo de Habilitación urbana con construcción simultanea de viviendas, se efectuarán todos los servicios básicos reglamentados para urbanizaciones con fines de vivienda.</p>
 <ul class="custom-list">
